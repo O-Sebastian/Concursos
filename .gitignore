@@ -1,0 +1,7 @@
+/.venv
+/concursos_convenios
+/templates/index*
+/venv
+concursos dia*
+main *
+main_*

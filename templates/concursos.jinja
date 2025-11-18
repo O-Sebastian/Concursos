@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard de Concursos</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 font-sans">
+<nav class="fixed top-0 left-0 right-0 bg-white shadow-md z-50 px-4 py-3 flex flex-col md:flex-row md:justify-between md:items-center gap-2 md:gap-0">
+  <!-- Título e atualização -->
+  <div class="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-3 text-sm">
+    <span class="font-bold text-lg text-blue-700">Concursos</span>
+    <span>Atualização: {{ ultima_atualizacao }}</span>
+  </div>
+
+  <!-- Links -->
+  <div class="flex gap-4 text-sm">
+    <a href="#col-novos" class="text-green-700 font-semibold">Novos</a>
+    <a href="#col-acompanhar" class="text-yellow-700 font-semibold">Acomp.</a>
+    <a href="#col-dispensados" class="text-orange-700 font-semibold">Disp.</a>
+  </div>
+</nav>
+<div class="pt-20"></div>  <!-- espaçamento por causa do menu fixo -->
+
+<main class="max-w-6xl mx-auto mt-10 space-y-10">
+
+  <!-- Resumo geral -->
+  <div>
+    <span>Novos</span><br>
+    {% for uf, total in totais_novos.items() %}
+      <span>{{ uf }}: {{ total }}</span><br>
+    {% else %}
+      <p class="text-gray-500">Nenhum registro.</p>
+    {% endfor %}
+
+    <span>Acompanhar</span><br>
+    {% for uf, total in totais_acompanhar.items() %}
+      <span>{{ uf }}: {{ total }}</span><br>
+    {% else %}
+      <p class="text-gray-500">Nenhum registro.</p>
+    {% endfor %}
+
+    <span>Dispensados</span><br>
+    {% for uf, total in totais_dispensados.items() %}
+      <span>{{ uf }}: {{ total }}</span><br>
+    {% else %}
+      <p class="text-gray-500">Nenhum registro.</p>
+    {% endfor %}
+  </div>
+
+  <!-- Detalhes dos concursos -->
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+    <!-- NOVOS -->
+    <section id="col-novos" class="mb-8 bg-green-100 border-l-4 border-green-500 p-6 rounded-lg shadow">
+      <h2 class="text-lg font-bold text-green-700 mb-3">Novos</h2>
+      {% for uf, concursos_uf in novos.items() %}
+        <div data-uf-container="{{ uf }}">
+          <h3 class="font-semibold text-gray-700 mt-4 mb-1">{{ uf }}</h3>
+          {% for url, c in concursos_uf.items() %}
+          <div class="card-concurso bg-green-100 rounded-lg shadow p-3 mb-3" data-uf="{{ uf }}">
+            <div class="font-bold text-sm">{{ c.titulo }}</div>
+            <div class="text-xs text-gray-500">{{ c.data_texto }}</div>
+            <div class="mt-2 flex justify-between items-center">
+              <a href="{{ url }}" target="_blank" class="text-blue-600 text-sm">Ver</a>
+              {% if uf != 'CONSULTA MANUAL' %}
+              <div class="flex gap-3 text-sm">
+                <button onclick="moverConcurso('{{ url }}', 'acompanhar', this)" class="text-yellow-600 text-sm">Acompanhar</button>
+                <button onclick="moverConcurso('{{ url }}', 'dispensados', this)" class="text-red-600 text-sm">Dispensar</button>
+              </div>
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    </section>
+
+    <!-- ACOMPANHAR -->
+    <section id="col-acompanhar" class="mb-8 bg-yellow-100 border-l-4 border-yellow-500 p-6 rounded-lg shadow">
+      <h2 class="text-lg font-bold text-yellow-700 mb-3">Acompanhar</h2>
+      {% for uf, concursos_uf in acompanhar.items() %}
+        <div data-uf-container="{{ uf }}">
+          <h3 class="font-semibold text-gray-700 mt-4 mb-1">{{ uf }}</h3>
+          {% for url, c in concursos_uf.items() %}
+          <div class="card-concurso bg-yellow-100 rounded-lg shadow p-3 mb-3" data-uf="{{ uf }}">
+            <div class="font-bold text-sm">{{ c.titulo }}</div>
+            <div class="text-xs text-gray-500">{{ c.data_texto }}</div>
+            <div class="mt-2 flex justify-between items-center">
+              <a href="{{ url }}" target="_blank" class="text-blue-600 text-sm">Ver</a>
+              <div class="flex gap-3 text-sm">
+                <button onclick="moverConcurso('{{ url }}', 'novos', this)" class="text-green-600 text-sm">Novos</button>
+                <button onclick="moverConcurso('{{ url }}', 'dispensados', this)" class="text-red-600 text-sm">Dispensar</button>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    </section>
+
+    <!-- DISPENSADOS -->
+    <section id="col-dispensados" class="mb-8 bg-orange-100 border-l-4 border-orange-500 p-6 rounded-lg shadow">
+      <h2 class="text-lg font-bold text-orange-700 mb-3">Dispensados</h2>
+      {% for uf, concursos_uf in dispensados.items() %}
+        <div data-uf-container="{{ uf }}">
+          <h3 class="font-semibold text-gray-700 mt-4 mb-1">{{ uf }}</h3>
+          {% for url, c in concursos_uf.items() %}
+          <div class="card-concurso bg-orange-100 rounded-lg shadow p-3 mb-3" data-uf="{{ uf }}">
+            <div class="font-bold text-sm">{{ c.titulo }}</div>
+            <div class="text-xs text-gray-500">{{ c.data_texto }}</div>
+            <div class="mt-2 flex justify-between items-center">
+              <a href="{{ url }}" target="_blank" class="text-blue-600 text-sm">Ver</a>
+              <div class="flex gap-3 text-sm">
+                <button onclick="moverConcurso('{{ url }}', 'novos', this)" class="text-green-600 text-sm">Novos</button>
+                <button onclick="moverConcurso('{{ url }}', 'acompanhar', this)" class="text-yellow-600 text-sm">Acompanhar</button>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    </section>
+
+  </div>
+</main>
+
+<div id="toast" class="fixed bottom-4 right-4 bg-black text-white px-4 py-2 rounded shadow-lg" style="display:none;"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  ordenarConsultaManualNoFim();
+});
+
+function showToast(msg) {
+  const t = document.getElementById("toast");
+  t.innerHTML = msg;
+  t.style.display = "block";
+  setTimeout(() => t.style.display = "none", 2000);
+}
+
+function moverConcurso(url, categoria, botao) {
+  botao.disabled = true;
+  let card = botao.closest(".card-concurso");
+  let uf = card.getAttribute("data-uf");
+
+  fetch("{{ base_url }}/api/mover", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ url: url, categoria: categoria, uf: uf })
+  })
+  .then(r => r.json())
+  .then(resp => {
+    if(resp.status === "ok") {
+
+      // Container da UF original
+      let ufContainerOriginal = card.closest("[data-uf-container]");
+
+      // Remove o card
+      card.remove();
+
+      // Remove o container da UF se ficar vazio
+      if(ufContainerOriginal && ufContainerOriginal.querySelectorAll(".card-concurso").length === 0){
+        ufContainerOriginal.remove();
+      }
+
+      // Container da categoria de destino
+      let containerId = categoria === "novos" ? "col-novos" : categoria === "acompanhar" ? "col-acompanhar" : "col-dispensados";
+      let container = document.querySelector("#" + containerId);
+
+      // UF container de destino
+      let ufContainer = container.querySelector("[data-uf-container='" + resp.uf + "']");
+      if(!ufContainer){
+        ufContainer = document.createElement("div");
+        ufContainer.setAttribute("data-uf-container", resp.uf);
+        ufContainer.innerHTML = `<h3 class="font-semibold text-gray-700 mt-4 mb-1">${resp.uf}</h3>`;
+        container.appendChild(ufContainer);
+      }
+
+      // Novo card
+      let novoCard = document.createElement("div");
+      novoCard.className = "card-concurso bg-" + categoria + "-100 rounded-lg shadow p-3 mb-3";
+      novoCard.setAttribute("data-uf", resp.uf);
+      novoCard.innerHTML = `
+          <div class="font-bold text-sm">${resp.concurso.titulo}</div>
+          <div class="text-xs text-gray-500">${resp.concurso.data_texto}</div>
+          <div class="mt-2 flex justify-between items-center">
+            <a href="${url}" target="_blank" class="text-blue-600 text-sm">Ver</a>
+            <div class="flex gap-3 text-sm">
+              ${categoria !== "novos" ? `<button onclick="moverConcurso('${url}', 'novos', this)" class="text-green-600 text-sm">Novos</button>` : ""}
+              ${categoria !== "acompanhar" ? `<button onclick="moverConcurso('${url}', 'acompanhar', this)" class="text-yellow-600 text-sm">Acompanhar</button>` : ""}
+              ${categoria !== "dispensados" ? `<button onclick="moverConcurso('${url}', 'dispensados', this)" class="text-red-600 text-sm">Dispensar</button>` : ""}
+            </div>
+          </div>
+      `;
+      ufContainer.appendChild(novoCard);
+      ordenarConsultaManualNoFim();
+
+      showToast("✔ Concurso movido para " + categoria);
+    } else {
+      showToast("❌ Erro ao mover");
+    }
+  })
+  .catch(() => showToast("❌ Falha na comunicação"))
+  .finally(() => setTimeout(() => botao.disabled = false, 1500));
+}
+
+function ordenarConsultaManualNoFim() {
+  const container = document.querySelector("#col-novos");
+  const ufContainers = Array.from(container.querySelectorAll("[data-uf-container]"));
+
+  ufContainers.forEach(ufDiv => {
+    if (ufDiv.getAttribute("data-uf-container") === "CONSULTA MANUAL") {
+      container.appendChild(ufDiv); // move para o fim
+    }
+  });
+}
+</script>
+</body>
+</html>

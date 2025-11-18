@@ -1,0 +1,32 @@
+https://www.avalia.org.br/concursos/status/inscricoes-abertas
+https://www.cebraspe.org.br/concursos/inscricoes-abertas/
+https://concursos.unioeste.br/?action=abertas
+https://www.concursosfau.com.br/novo/concursos/
+https://www.concursosfuncamp.com.br/
+https://conhecimento.fgv.br/concursos/amazul
+https://www.consesp.com.br/
+https://www.consulpam.com.br/index.php?menu=concursos&acao=ver&id=517
+https://indepac.selecao.net.br/
+http://www.institutoindec.org.br/
+https://www.institutomais.org.br/
+https://www.institutounivida.org.br/
+https://www.institutounicampo.com.br/
+https://www.ipefae.org.br/
+http://novo.ibgpconcursos.com.br/inscricoes_abertas.jsp
+https://portal.cmmconcursos.com.br/
+https://portal.fenix.selecao.site/
+https://portal.glconsultoria.com.br/
+https://portal.institutoibepp.com.br/
+https://processoseletivo.igesdf.org.br/
+http://www.publiconsult.com.br/
+https://www.quadrix.org.br/
+https://www.seprev.sp.gov.br/
+https://www.shdias.com.br/concursos/publicacoes/PREFEITURA+MUNICIPAL+DE+SALTO+DE+PIRAPORA/269
+https://sigmaassessoria.com.br/sigma/
+
+A partir de agora, vamos falar somente em html, JavaScript ES6+, Flask, CSS tailwind e ícones Font Awesome, MySQL e Git, usando localhost:5000 e hospedagem no pythonanywhere.com. Quando auxiliar em alguma parte de qualquer script, tente, ao máximo possível, manter a mesma linha de pensamento, mesmos nomes de variáveis e seguindo o mesmo fluxo de dados. Vamos trabalhar somente neste script em localhost e possivelmente, em um outro script html, que vou enviar, caso necessário.
+
+Estou fazendo um script onde rastreia várias páginas de concursos públicos, separando por categorias de novos, para novos concursos abertos, acompanhar, para acompanhamento dos interessantes e dispensados, aqueles que não são concursos interessantes e, em cada uma dessas categorias, separados por estados brasileiros, regiões ou âmbito nacional.
+Cada usuário terá seu próprio json com os dados seguindo a divisão acima e, como estou criando uma pasta exclusiva para este script de concursos, o "link raiz" será  "/concursos/xxx" onde, xxx é o nome de usuário, que está em um arquivo json separado, mas a "pasta raiz" será "\concursos" dentro da pasta padrão.
+Dentro do main.py, estou verificando se o request.path.startswith('/concursos/') para liberar o acesso sem que o arquivo main.py seja completamente carregado e estava separando em vários arquivos, mas como script é pequeno, não vejo tanta necessidade de separar em vários arquivos.
+Por conta disso, preciso de ajuda para passar tudo para o mínimo de arquivos possíveis.
