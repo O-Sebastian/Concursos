@@ -5,6 +5,7 @@ from datetime import datetime
 from urllib.parse import urlparse
 #from concursos.concursos import concursos_bp
 from flask import Flask
+from dotenv import load_dotenv
 
 import requests
 from bs4 import BeautifulSoup
@@ -18,7 +19,10 @@ from flask import Blueprint, render_template, abort, jsonify, request
 # =====================================================
 
 app = Flask(__name__)
-#app = Flask(__name__, static_url_path='', static_folder='static', template_folder='templates')
+load_dotenv()
+api_key = os.environ.get("API_KEY")
+debug_mode = os.environ.get("DEBUG", "False") == "True"
+port = int(os.environ.get("PORT", 5000))  # Porta padrão local 5000
 
 # registra o blueprint
 #app.register_blueprint(concursos_bp)
@@ -443,6 +447,12 @@ def concursos_usuario(subpath):
         base_url = f"/{subpath}",
     )
 
+@app.route("/health")
+def health():
+    return "OK", 200
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Porta para desenvolvimento local
+    port = int(os.environ.get("PORT", 5000))  # 5000 é padrão local
+    # Host 0.0.0.0 permite acesso externo
+    app.run(host="0.0.0.0", port=port, debug=debug_mode)
