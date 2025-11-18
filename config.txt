@@ -1,0 +1,7 @@
+# config.txt
+
+# Caminho para o repositório no computador de casa
+CAMINHO_CASA=F:/Desenvolvimento/wwwroot/concursos
+
+# Caminho para o repositório no computador do trabalho
+CAMINHO_SERVICO=E:/Desenvolvimento/wwwroot/Concursos
