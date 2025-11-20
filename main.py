@@ -719,11 +719,11 @@ def concursos_usuario(subpath):
 
 ##############
 # DESCOMENTAR ESTE TRECHO - INÍCIO
-    # if atualizado != hoje:
-    #     concursos_site = obter_concursos()
+    if atualizado != hoje:
+        concursos_site = obter_concursos()
 # DESCOMENTAR ESTE TRECHO - FIM
 ##############
-    concursos_site = obter_concursos() # RETIRAR ESTA LINHA
+#    concursos_site = obter_concursos() # RETIRAR ESTA LINHA
 
 
     if concursos_site:
