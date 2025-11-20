@@ -2,6 +2,11 @@
 /concursos_convenios
 /templates/index*
 /venv
+/data/oliveirasebastian.json
 concursos dia*
 main *
 main_*
+verificador.xlsx
+config.txt
+Rascunho.txt
+repositorio.bat

@@ -1,32 +1,78 @@
-https://www.avalia.org.br/concursos/status/inscricoes-abertas
-https://www.cebraspe.org.br/concursos/inscricoes-abertas/
-https://concursos.unioeste.br/?action=abertas
-https://www.concursosfau.com.br/novo/concursos/
-https://www.concursosfuncamp.com.br/
-https://conhecimento.fgv.br/concursos/amazul
-https://www.consesp.com.br/
-https://www.consulpam.com.br/index.php?menu=concursos&acao=ver&id=517
-https://indepac.selecao.net.br/
-http://www.institutoindec.org.br/
-https://www.institutomais.org.br/
-https://www.institutounivida.org.br/
-https://www.institutounicampo.com.br/
-https://www.ipefae.org.br/
-http://novo.ibgpconcursos.com.br/inscricoes_abertas.jsp
-https://portal.cmmconcursos.com.br/
-https://portal.fenix.selecao.site/
-https://portal.glconsultoria.com.br/
-https://portal.institutoibepp.com.br/
-https://processoseletivo.igesdf.org.br/
-http://www.publiconsult.com.br/
-https://www.quadrix.org.br/
-https://www.seprev.sp.gov.br/
-https://www.shdias.com.br/concursos/publicacoes/PREFEITURA+MUNICIPAL+DE+SALTO+DE+PIRAPORA/269
-https://sigmaassessoria.com.br/sigma/
+https://www.pciconcursos.com.br/concursos/?utm_source=chatgpt.com
+https://www.proximosconcursos.com/concursos-abertos/?utm_source=chatgpt.com
+https://www.acheconcursos.com.br/concursos-abertos?utm_source=chatgpt.com
+https://blog.grancursosonline.com.br/concursos-abertos/?utm_source=chatgpt.com
+https://www.estrategiaconcursos.com.br/blog/concursos-abertos/?utm_source=chatgpt.com
+https://jcconcursos.uol.com.br/concursos/inscricoes-abertas?utm_source=chatgpt.com
+https://editalconcurso.com.br/?utm_source=chatgpt.com
+https://www.vunesp.com.br/busca/concurso/inscricoes%20abertas?utm_source=chatgpt.com
+https://www.concursopublico.sp.gov.br/?utm_source=chatgpt.com
+https://www.cps.sp.gov.br/concursopublico/?utm_source=chatgpt.com
 
-A partir de agora, vamos falar somente em html, JavaScript ES6+, Flask, CSS tailwind e ícones Font Awesome, MySQL e Git, usando localhost:5000 e hospedagem no pythonanywhere.com. Quando auxiliar em alguma parte de qualquer script, tente, ao máximo possível, manter a mesma linha de pensamento, mesmos nomes de variáveis e seguindo o mesmo fluxo de dados. Vamos trabalhar somente neste script em localhost e possivelmente, em um outro script html, que vou enviar, caso necessário.
+Seja um debatedor maduro. Questione minha ideias, desafie meus pontos de vista, mosre onde estou errando, os meus pontos cegos, me fraça ver as oportunidades que estou perdendo. Seja meu treinador que se importa com a verdade e com meu crescimento do que qualquer conforto. Não preciso de validação, quero ser melhor em todas as respostas que fornecer links, apresente fontes confiáveis de informação
+A partir de agora, vamos falar somente em html, JavaScript ES6+, Flask, CSS tailwind e ícones Font Awesome, MySQL e Git, usando localhost:5000 e hospedagem no render.com. Quando auxiliar em alguma parte de qualquer script, tente, ao máximo possível, manter a mesma linha de pensamento, mesmos nomes de variáveis e seguindo o mesmo fluxo de dados. Vamos trabalhar somente neste script em localhost e possivelmente, em um outro script html, que vou enviar, caso necessário.
 
 Estou fazendo um script onde rastreia várias páginas de concursos públicos, separando por categorias de novos, para novos concursos abertos, acompanhar, para acompanhamento dos interessantes e dispensados, aqueles que não são concursos interessantes e, em cada uma dessas categorias, separados por estados brasileiros, regiões ou âmbito nacional.
-Cada usuário terá seu próprio json com os dados seguindo a divisão acima e, como estou criando uma pasta exclusiva para este script de concursos, o "link raiz" será  "/concursos/xxx" onde, xxx é o nome de usuário, que está em um arquivo json separado, mas a "pasta raiz" será "\concursos" dentro da pasta padrão.
-Dentro do main.py, estou verificando se o request.path.startswith('/concursos/') para liberar o acesso sem que o arquivo main.py seja completamente carregado e estava separando em vários arquivos, mas como script é pequeno, não vejo tanta necessidade de separar em vários arquivos.
-Por conta disso, preciso de ajuda para passar tudo para o mínimo de arquivos possíveis.
+Cada usuário terá seu próprio json com os dados seguindo a divisão acima e, como estou criando uma pasta exclusiva para este script de concursos, o "link raiz" será  "/concursos/xxx" onde, xxx é o nome de usuário, que está em um arquivo json separado.
+
+Quero o modo pleno pois você está sempre apresentando várias alternativas para o meu problema pontual, sem analisar suas respostas anteriores e ir afunilando as alternativas.
+Meu obstáculo real para este script é que eu tenho pressa para criar um localizador de concursos públicos e começar a me preparar. Quanto mais rápido eu termino este script, mais tempo eu terei para estudar os conteúdos das provas.
+Se você perceber o script completo, verá que já existem alguns links que possuem formatos diferentes e este é um layout diferenciado dos demais, não podendo usar o mesmo conteúdo anterior.
+
+No momento, eu escolho a alternativa A, pois meu problema pontual está sendo a leitura desta página, que contém 6 divs iguais e que, por enquanto, eu só preciso resgatar o link, título e data final da inscrição.
+Quando eu tiver mais tempo, mesmo porque, são quase 2 horas da manhã e eu preciso dormir, aí aceito seu desafio para mesclar todo este script que eu enviei para algo mais genérico e amplo.
+
+Playwright (recomendado)
+
+Mais moderno e rápido.
+
+Renderiza JavaScript completamente.
+
+Tem API Python oficial (pip install playwright).
+
+Permite esperar elementos aparecerem, então você não precisa de “sleep” fixo.
+
+Código mínimo para pegar títulos, links e datas:
+
+from playwright.sync_api import sync_playwright
+
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=True)
+    page = browser.new_page()
+    page.goto("URL_DA_PAGINA")
+
+    # Espera os cards carregarem
+    page.wait_for_selector("div.card")
+
+    cards = page.query_selector_all("div.card")
+    for card in cards:
+        titulo_a = card.query_selector("h1 a")
+        titulo = titulo_a.inner_text().strip() if titulo_a else ""
+        link = titulo_a.get_attribute("href") if titulo_a else ""
+        data_el = card.query_selector("p.w-full.justify-center.text-primary")
+        data_final = data_el.inner_text().strip() if data_el else ""
+
+        print("Título:", titulo)
+        print("Link:", link)
+        print("Data final:", data_final)
+
+    browser.close()
+
+2️⃣ Selenium
+Mais pesado, mas funciona.
+Requer WebDriver (ChromeDriver/GeckoDriver).
+Bom se você já conhece Selenium.
+
+3️⃣ Requests-HTML
+Funciona parcialmente (.render()), mas depende de Pyppeteer por trás.
+Mais simples que Selenium, mas menos robusto que Playwright.
+💡 Minha recomendação direta: Playwright.
+Rápido de instalar, moderno, não trava tanto quanto Selenium, muito bom para scraping de páginas JS.
+
+Se você quiser, posso te entregar o script completo já pronto usando Playwright, pegando exatamente:
+Título
+Link
+Data final da inscrição
+
+E imprimindo para todos os cards da página.
+Quer que eu faça isso agora?

@@ -1,6 +1,168 @@
 {
   "novos": {
+    "CONSULTA MANUAL": {
+      "https://www.concursosfcc.com.br/concursoInscricaoAberta.html": {
+        "titulo": "Fundação Carlos Chagas",
+        "data_texto": ""
+      },
+      "https://inscricoes.unesp.br/concurso/inscricao-aberta": {
+        "titulo": "Unesp - Universidade Estadual Paulista Júlio de Mesquita Filho",
+        "data_texto": ""
+      },
+      "https://www.fuvest.br/concursos/": {
+        "titulo": "FUVEST - Universidade de São Paulo (USP)",
+        "data_texto": ""
+      },
+      "https://www.vunesp.com.br/busca/concurso/inscricoes%20abertas": {
+        "titulo": "Fundação VUNESP",
+        "data_texto": ""
+      },
+      "https://www.institutounivida.org.br/concursos/": {
+        "titulo": "Instituto Univida",
+        "data_texto": ""
+      },
+      "https://www.institutomais.org.br/Concursos/ConcursosAbertos": {
+        "titulo": "Instituto Mais",
+        "data_texto": ""
+      },
+      "https://www.seprev.sp.gov.br/transparencia/concurso": {
+        "titulo": "SEPREV - Indaiatuba",
+        "data_texto": ""
+      },
+      "https://www.avalia.org.br/concursos/status/inscricoes-abertas": {
+        "titulo": "Instituto Avalia",
+        "data_texto": ""
+      },
+      "https://www.cebraspe.org.br/concursos/inscricoes-abertas/": {
+        "titulo": "Centro CEBRASPE",
+        "data_texto": ""
+      },
+      "https://concursos.unioeste.br/?action=abertas": {
+        "titulo": "Universidade UNOESTE",
+        "data_texto": ""
+      },
+      "https://conhecimento.fgv.br/concursos": {
+        "titulo": "Fundação Getúlio Vargas - FGV",
+        "data_texto": ""
+      },
+      "https://sis.consesp.com.br/site/index.php?pg=concursos/c&t=C&c=A": {
+        "titulo": "CONSESP – Consultoria em Concursos Públicos e Pesquisas Sociais",
+        "data_texto": ""
+      },
+      "http://www.institutoindec.org.br/": {
+        "titulo": "Instituto INDEC",
+        "data_texto": ""
+      },
+      "https://novo.ibgpconcursos.com.br/inscricoes_abertas.jsp": {
+        "titulo": "IBGP - Instituto Brasileiro de Gestão e Pesquisa",
+        "data_texto": ""
+      },
+      "https://processoseletivo.igesdf.org.br/vagas": {
+        "titulo": "IGESDF - Instituto de Gestão Estratégica",
+        "data_texto": ""
+      },
+      "https://site.quadrix.org.br/": {
+        "titulo": "Instituto Quadrix",
+        "data_texto": ""
+      },
+      "https://www.shdias.com.br/concursos/": {
+        "titulo": "SHDias - Consultoria e Assessoria",
+        "data_texto": ""
+      },
+      "https://sigmaassessoria.com.br/sigma/": {
+        "titulo": "Sigma - Assessoria Administrativa",
+        "data_texto": ""
+      },
+      "https://folha.qconcursos.com/e/concursos-abertos": {
+        "titulo": "Q Concursos - Folha Dirigida",
+        "data_texto": ""
+      },
+      "https://abertos.proximosconcursos.com/": {
+        "titulo": "Próximos Concursos",
+        "data_texto": ""
+      },
+      "https://concursosnobrasil.com/concursos/": {
+        "titulo": "Concursos no Brasil",
+        "data_texto": ""
+      },
+      "https://www.institutoaocp.org.br/concursos/status/inscricoes-abertas": {
+        "titulo": "Instituto AOCP",
+        "data_texto": ""
+      },
+      "https://www.cesgranrio.org.br/concursos?id=index-205112&ucat=27": {
+        "titulo": "Instituto AOCP",
+        "data_texto": ""
+      },
+      "https://megaconcursos.com/concursos/": {
+        "titulo": "Mega Concursos",
+        "data_texto": ""
+      }
+    },
+    "NACIONAL": {
+      "https://www.pciconcursos.com.br/noticias/caixa-economica-federal-retifica-concurso-publico-nacional-com-184-vagas": {
+        "titulo": "Caixa Econômica Federal retifica Concurso Público nacional com 184 vagas",
+        "data_texto": "08/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/comando-do-2-distrito-naval-da-marinha-do-brasil-abre-inscricoes-para-dois-editais-de-processo-seletivo": {
+        "titulo": "Comando do 2º Distrito Naval da Marinha do Brasil abre inscrições para dois editais de Processo Seletivo",
+        "data_texto": "08/01/2026"
+      },
+      "https://www.pciconcursos.com.br/noticias/comando-do-7-distrito-naval-da-marinha-do-brasil-abre-inscricoes-para-dois-editais-de-processo-seletivo": {
+        "titulo": "Comando do 7º Distrito Naval da Marinha do Brasil abre inscrições para dois editais de Processo Seletivo",
+        "data_texto": "08/01/2026"
+      },
+      "https://www.pciconcursos.com.br/noticias/comando-do-8-distrito-naval-da-marinha-do-brasil-abre-inscricoes-para-edital-de-processo-seletivo": {
+        "titulo": "Comando do 8º Distrito Naval da Marinha do Brasil abre inscrições para edital de Processo Seletivo",
+        "data_texto": "08/01/2026"
+      },
+      "https://www.pciconcursos.com.br/noticias/marinha-abre-selecao-para-oficiais-temporarios-em-diversas-areas-no-3-distrito-naval": {
+        "titulo": "Marinha abre seleção para Oficiais Temporários em diversas áreas no 3º Distrito Naval",
+        "data_texto": "08/01/2026"
+      },
+      "https://www.pciconcursos.com.br/noticias/cref-da-19-regiao-informa-abertura-das-inscricoes-de-concurso-publico": {
+        "titulo": "Cref da 19ª Região informa abertura das inscrições de Concurso Público",
+        "data_texto": "04/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/crt-da-3-regiao-publica-retificacao-de-processo-seletivo-para-fiscais-e-assistentes-tecnicos-operacionais": {
+        "titulo": "CRT da 3ª Região publica retificação de Processo Seletivo para Fiscais e Assistentes Técnicos Operacionais",
+        "data_texto": "14/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/ibge-abre-processos-seletivos-com-mais-de-9-mil-vagas": {
+        "titulo": "IBGE abre Processos Seletivos com mais de 9 mil vagas",
+        "data_texto": "11/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/tribunal-de-contas-da-uniao-publica-retificacao-de-concurso-publico-para-auditor-federal-de-controle-externo": {
+        "titulo": "Tribunal de Contas da União publica retificação de Concurso Público para Auditor Federal de Controle Externo",
+        "data_texto": "03/12/2025"
+      }
+    },
+    "REGIÃO SUDESTE": {
+      "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-29-vagas-em-novo-processo-seletivo": {
+        "titulo": "Marinha do Brasil abre 29 vagas em novo Processo Seletivo",
+        "data_texto": "08/01/2026"
+      }
+    },
     "SÃO PAULO": {
+      "https://www.pciconcursos.com.br/noticias/artesp-retifica-concurso-publico-com-142-vagas": {
+        "titulo": "ARTESP retifica Concurso Público com 142 vagas",
+        "data_texto": "01/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/fipase-de-ribeirao-preto-abre-concurso-publico-com-seis-vagas-para-ensino-superior": {
+        "titulo": "FIPASE de Ribeirão Preto abre Concurso Público com seis vagas para ensino superior",
+        "data_texto": "22/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/ifsp-abre-concurso-publico-para-tecnicos-administrativos-em-educacao": {
+        "titulo": "IFSP abre Concurso Público para Técnicos-Administrativos em Educação",
+        "data_texto": "24/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-cajamar-sp-abre-nove-vagas-em-novo-concurso-publico": {
+        "titulo": "Prefeitura de Cajamar - SP abre nove vagas em novo Concurso Público",
+        "data_texto": "12/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-jundiai-sp-abre-concurso-publico-para-o-cargo-de-agente-comunitario-de-saude": {
+        "titulo": "Prefeitura de Jundiaí - SP abre Concurso Público para o cargo de Agente Comunitário de Saúde",
+        "data_texto": "20/11/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/sap-sp-anuncia-1100-vagas-em-novo-concurso-publico": {
         "titulo": "SAP-SP anuncia 1.100 vagas em novo Concurso Público",
         "data_texto": "08/12/2025"
@@ -25,6 +187,10 @@
         "titulo": "Câmara de Divinolândia - SP anuncia abertura de Concurso Público para cargos de nível superior",
         "data_texto": "08/12/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/camara-de-ibate-sp-abre-concurso-publico-para-diversas-areas": {
+        "titulo": "Câmara de Ibaté - SP abre Concurso Público para diversas áreas",
+        "data_texto": "29/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/camara-de-itirapua-sp-publica-concurso-publico-para-escriturario-legislativo": {
         "titulo": "Câmara de Itirapuã - SP publica Concurso Público para Escriturário Legislativo",
         "data_texto": "21/11/2025"
@@ -36,10 +202,6 @@
       "https://www.pciconcursos.com.br/noticias/camara-de-miguelopolis-sp-anuncia-concurso-publico-para-nivel-medio-e-superior": {
         "titulo": "Câmara de Miguelópolis - SP anuncia Concurso Público para nível médio e superior",
         "data_texto": "27/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/camara-de-mirassol-sp-publica-edital-de-concurso-publico": {
-        "titulo": "Câmara de Mirassol - SP publica edital de Concurso Publico",
-        "data_texto": "19/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-ocaucu-sp-promove-concurso-publico-para-agente-de-contratacao": {
         "titulo": "Câmara de Ocauçu - SP promove Concurso Público para Agente de Contratação",
@@ -65,9 +227,17 @@
         "titulo": "CIOP - SP retifica Processo Seletivo com 31 vagas para diversas áreas",
         "data_texto": "23/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/ciop-sp-promove-concurso-publico-com-257-vagas": {
+        "titulo": "CIOP - SP promove Concurso Público com 257 vagas",
+        "data_texto": "07/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/ch-padre-bento-em-guarulhos-sp-republica-edital-de-concurso-publico-para-medicos": {
         "titulo": "CH Padre Bento em Guarulhos - SP republica edital de Concurso Público para Médicos",
         "data_texto": "12/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/departamento-de-agua-e-esgotos-de-valparaiso-sp-abre-inscricoes-para-edital-de-concurso-publico": {
+        "titulo": "Departamento de Água e Esgotos de Valparaíso - SP abre inscrições para edital de Concurso Público",
+        "data_texto": "15/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/etec-de-quata-sp-abre-processo-seletivo-para-cargo-de-auxiliar-de-docente": {
         "titulo": "Etec de Quatá - SP abre Processo Seletivo para cargo de Auxiliar de Docente",
@@ -93,25 +263,13 @@
         "titulo": "Fatec de Tatuí - SP abre Processo Seletivo para cargo de Auxiliar de Docente",
         "data_texto": "21/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/fundacao-clovis-salgado-sp-abre-processo-seletivo-para-cargo-de-analista-de-gestao-artistica": {
-        "titulo": "Fundação Clóvis Salgado - SP abre Processo Seletivo para cargo de Analista de Gestão Artística",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-publica-abertura-de-edital-de-processo-seletivo": {
-        "titulo": "Fundação Hospital Santa Lydia publica abertura de edital de Processo Seletivo",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/fipase-de-ribeirao-preto-abre-concurso-publico-com-seis-vagas-para-ensino-superior": {
-        "titulo": "FIPASE de Ribeirão Preto abre Concurso Público com seis vagas para ensino superior",
-        "data_texto": "22/12/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-quimicos": {
         "titulo": "Fundação Santo André - SP abre Concurso Público para Químicos",
         "data_texto": "07/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/funcamp-sp-divulga-edital-de-processo-seletivo-para-assistente-administrativo": {
-        "titulo": "Funcamp - SP divulga edital de Processo Seletivo para Assistente Administrativo",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-cargo-de-secretario-executivo": {
+        "titulo": "Fundação Santo André - SP abre Concurso Público para cargo de Secretário Executivo",
+        "data_texto": "18/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/funcamp-anuncia-edital-de-processo-seletivo-para-cargo-de-instalador-hidraulico": {
         "titulo": "Funcamp anuncia edital de Processo Seletivo para cargo de Instalador Hidráulico",
@@ -137,10 +295,6 @@
         "titulo": "Funcamp anuncia edital de Processo Seletivo para cargo de Auxiliar de Farmácia",
         "data_texto": "03/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/grau-ses-sp-abre-concurso-publico-para-medicos": {
-        "titulo": "GRAU - SES - SP abre Concurso Público para Médicos",
-        "data_texto": "17/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/hcfmrp-publica-tres-concursos-publicos-para-medicos": {
         "titulo": "HCFMRP publica três Concursos Públicos para Médicos",
         "data_texto": "05/12/2025"
@@ -157,10 +311,6 @@
         "titulo": "Hospital e Maternidade Leonor Mendes de Barros - SP abre 10 vagas em novo Concurso Público",
         "data_texto": "26/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/hospital-estadual-dr-oswaldo-brandi-faria-abre-tres-concursos-publicos-em-mirandopolis-sp": {
-        "titulo": "Hospital Estadual Dr. Oswaldo Brandi Faria abre três Concursos Públicos em Mirandópolis - SP",
-        "data_texto": "02/12/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/hospital-maternidade-leonor-mendes-de-barros-abre-concurso-publico-para-medicos-urologistas": {
         "titulo": "Hospital Maternidade Leonor Mendes de Barros abre Concurso Público para Médicos Urologistas",
         "data_texto": "26/11/2025"
@@ -171,15 +321,11 @@
       },
       "https://www.pciconcursos.com.br/noticias/instituto-lauro-de-souza-lima-sp-lanca-edital-de-concurso-publico-com-uma-vaga-para-cargo-de-medico": {
         "titulo": "Instituto Lauro de Souza Lima - SP lança edital de Concurso Público com uma vaga para cargo de Médico",
-        "data_texto": "24/11 a12/12/2025"
+        "data_texto": "12/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-avare-sp-publica-edital-de-concurso-publico-com-diversos-cargos": {
         "titulo": "Prefeitura de Avaré - SP publica edital de Concurso Público com diversos cargos",
         "data_texto": "28/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-sp-publica-processo-seletivo-para-engenheiro-de-seguranca-do-trabalho": {
-        "titulo": "Prefeitura de Salto - SP publica Processo Seletivo para Engenheiro de Segurança do Trabalho",
-        "data_texto": "17/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-aparecida-sp-abre-processo-seletivo-para-diversas-areas-educacionais": {
         "titulo": "Prefeitura de Aparecida - SP abre Processo Seletivo para diversas áreas educacionais",
@@ -193,6 +339,10 @@
         "titulo": "Prefeitura de Bernardino de Campos - SP abre Processo Seletivo para cadastro de reserva",
         "data_texto": "21/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-bertioga-sp-divulga-dois-editais-de-concursos-publicos": {
+        "titulo": "Prefeitura de Bertioga - SP divulga dois editais de Concursos Públicos",
+        "data_texto": "18/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-bora-sp-retifica-concurso-publico-e-processo-seletivo-com-sete-vagas": {
         "titulo": "Prefeitura de Borá - SP retifica Concurso Público e Processo Seletivo com sete vagas",
         "data_texto": "30/11/2025"
@@ -201,16 +351,8 @@
         "titulo": "Prefeitura de Buri - SP abre inscrições para dois Concursos Públicos",
         "data_texto": "25/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-cajamar-sp-abre-nove-vagas-em-novo-concurso-publico": {
-        "titulo": "Prefeitura de Cajamar - SP abre nove vagas em novo Concurso Público",
-        "data_texto": "12/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-capela-do-alto-sp-prorroga-inscricoes-de-processo-seletivo": {
-        "titulo": "Prefeitura de Capela do Alto - SP prorroga inscrições de Processo Seletivo",
-        "data_texto": "Prorrogado até19/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-chavantes-sp-publica-processo-seletivo-para-formar-cadastro-reserva": {
-        "titulo": "Prefeitura de Chavantes - SP publica Processo Seletivo para formar cadastro reserva",
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-chavantes-sp-publica-retificacao-de-processo-seletivo": {
+        "titulo": "Prefeitura de Chavantes - SP publica retificação de Processo Seletivo",
         "data_texto": "05/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-conchal-sp-divulga-abertura-de-dois-editais-de-concurso-publico": {
@@ -247,7 +389,11 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-fernando-prestes-sp-abre-processo-seletivo-para-diversas-areas": {
         "titulo": "Prefeitura de Fernando Prestes - SP abre Processo Seletivo para diversas áreas",
-        "data_texto": "18/11 a02/12/2025"
+        "data_texto": "02/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-morato-sp-abre-inscricoes-para-novo-processo-seletivo": {
+        "titulo": "Prefeitura de Francisco Morato - SP abre inscrições para novo Processo Seletivo",
+        "data_texto": "09/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-franco-da-rocha-sp-abre-concurso-publico-com-salarios-de-ate-5-8-mil": {
         "titulo": "Prefeitura de Franco da Rocha - SP abre Concurso Público com salários de até R$ 5,8 mil",
@@ -265,13 +411,9 @@
         "titulo": "Prefeitura de Guaraçaí - SP publica edital de Processo Seletivo",
         "data_texto": "27/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarei-sp-anuncia-retificacao-de-processo-seletivo-com-diversos-cargos": {
-        "titulo": "Prefeitura de Guareí - SP anuncia retificação de Processo Seletivo com diversos cargos",
-        "data_texto": "18/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-publica-retificacoes-de-concurso-publico-para-assistente-de-gestao-publica": {
-        "titulo": "Prefeitura de Guarulhos - SP publica retificações de Concurso Público para Assistente de Gestão Pública",
-        "data_texto": "Prorrogado até10/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-herculandia-sp-abre-inscricoes-para-dois-editais-de-processo-seletivo": {
+        "titulo": "Prefeitura de Herculândia - SP abre inscrições para dois editais de Processo Seletivo",
+        "data_texto": "04/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilha-comprida-sp-publica-abertura-de-dois-editais-de-concurso-publico": {
         "titulo": "Prefeitura de Ilha Comprida - SP publica abertura de dois editais de Concurso Público",
@@ -309,9 +451,9 @@
         "titulo": "Prefeitura de Jaboticabal - SP divulga 19 vagas em novo Concurso Público",
         "data_texto": "04/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-jose-bonifacio-sp-promove-concurso-publico-para-agente-de-organizacao-escolar": {
-        "titulo": "Prefeitura de José Bonifácio - SP promove Concurso Público para Agente de Organização Escolar",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-joao-ramalho-sp-abre-processo-seletivo-para-formar-cadastro-reserva": {
+        "titulo": "Prefeitura de João Ramalho - SP abre Processo Seletivo para formar cadastro reserva",
+        "data_texto": "02/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-laranjal-paulista-sp-divulga-processo-seletivo-com-diversos-cargos": {
         "titulo": "Prefeitura de Laranjal Paulista - SP divulga Processo Seletivo com diversos cargos",
@@ -321,17 +463,17 @@
         "titulo": "Prefeitura de Miracatu - SP promove Concurso Público",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-do-sul-sp-publica-novo-edital-de-processo-seletivo-com-diversos-cargos": {
-        "titulo": "Prefeitura de Monte Alegre do Sul - SP publica novo edital de Processo Seletivo com diversos cargos",
-        "data_texto": "19/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-mor-sp-publica-retificacao-de-processo-seletivo-para-profissional-de-apoio-escolar": {
-        "titulo": "Prefeitura de Monte Mor - SP publica retificação de Processo Seletivo para Profissional de Apoio Escolar",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-castelo-sp-abre-concurso-publico-e-processo-seletivo": {
+        "titulo": "Prefeitura de Monte Castelo - SP abre Concurso Público e Processo Seletivo",
+        "data_texto": "07/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-narandiba-sp-publica-editais-retificados-de-concurso-publico-e-processos-seletivos": {
         "titulo": "Prefeitura de Narandiba - SP publica editais retificados de Concurso Público e Processos Seletivos",
         "data_texto": "30/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/edital-de-processo-seletivo-e-divulgado-pela-prefeitura-de-novo-horizonte-sp": {
+        "titulo": "Edital de Processo Seletivo é divulgado pela Prefeitura de Novo Horizonte - SP",
+        "data_texto": "01/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-oleo-sp-divulga-edital-de-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Óleo - SP divulga edital de Processo Seletivo para formar cadastro reserva",
@@ -341,25 +483,21 @@
         "titulo": "Prefeitura de Parapuã - SP abre edital de Processo Seletivo e Concurso Público para formar cadastro reserva",
         "data_texto": "30/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-pederneiras-sp-promove-concurso-publico-com-salarios-de-ate-6-5-mil": {
-        "titulo": "Prefeitura de Pederneiras - SP promove Concurso Público com salários de até R$ 6,5 mil",
-        "data_texto": "19/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-parapua-sp-publica-dois-editais-de-concursos-publicos": {
+        "titulo": "Prefeitura de Parapuã - SP publica dois editais de Concursos Públicos",
+        "data_texto": "14/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-pereira-barreto-sp-abre-concurso-publico-com-salarios-de-ate-10-1-mil": {
-        "titulo": "Prefeitura de Pereira Barreto - SP abre Concurso Público com salários de até R$ 10,1 mil",
-        "data_texto": "15/12/2025 a22/01/2026"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-seis-vagas-em-novo-processo-seletivo": {
+        "titulo": "Prefeitura de Pilar do Sul - SP abre seis vagas em novo Processo Seletivo",
+        "data_texto": "19/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-pirapora-do-bom-jesus-sp-publica-edital-de-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Pirapora do Bom Jesus - SP publica edital de Processo Seletivo para formar cadastro reserva",
         "data_texto": "26/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-feliz-sp-publica-edital-de-processo-seletivo-para-formar-cadastro-reserva": {
-        "titulo": "Prefeitura de Porto Feliz - SP publica edital de Processo Seletivo para formar cadastro reserva",
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-feliz-sp-publica-retificacao-de-processo-seletivo": {
+        "titulo": "Prefeitura de Porto Feliz - SP publica retificação de Processo Seletivo",
         "data_texto": "02/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-potim-sp-suspende-concurso-publico-e-processo-de-selecao-publica": {
-        "titulo": "Prefeitura de Potim - SP suspende Concurso Público e Processo de Seleção Pública",
-        "data_texto": "Suspenso"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeirao-do-sul-sp-promove-concurso-publico-com-13-vagas": {
         "titulo": "Prefeitura de Ribeirão do Sul - SP promove Concurso Público com 13 vagas",
@@ -369,8 +507,8 @@
         "titulo": "Prefeitura de Ribeirão Grande - SP abre Concurso Público para diversas áreas",
         "data_texto": "12/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeirao-pires-sp-abre-concurso-publico-com-salarios-de-ate-13-9-mil": {
-        "titulo": "Prefeitura de Ribeirão Pires - SP abre Concurso Público com salários de até R$ 13,9 mil",
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeirao-pires-sp-publica-retificacao-de-concurso-publico": {
+        "titulo": "Prefeitura de Ribeirão Pires - SP publica retificação de Concurso Público",
         "data_texto": "11/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-saltinho-sp-lanca-dois-concursos-publicos-com-diversos-cargos": {
@@ -380,6 +518,10 @@
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-de-pirapora-sp-abre-dois-editais-de-concurso-publico-com-diversos-cargos": {
         "titulo": "Prefeitura de Salto de Pirapora - SP abre dois editais de Concurso Público com diversos cargos",
         "data_texto": "10/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-clara-doeste-sp-abre-11-vagas-em-novo-concurso-publico": {
+        "titulo": "Prefeitura de Santa Clara D'Oeste - SP abre 11 vagas em novo Concurso Público",
+        "data_texto": "01/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-gertrudes-sp-publica-retificacoes-de-concursos-publicos": {
         "titulo": "Prefeitura de Santa Gertrudes - SP publica retificações de Concursos Públicos",
@@ -407,59 +549,83 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sud-mennucci-sp-publica-retificacao-de-processo-seletivo": {
         "titulo": "Prefeitura de Sud Mennucci - SP publica retificação de Processo Seletivo",
-        "data_texto": "19/11 a05/12/2025"
+        "data_texto": "05/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/edital-de-concurso-publico-e-divulgado-pela-prefeitura-de-taguai-sp": {
         "titulo": "Edital de Concurso Público é divulgado pela Prefeitura de Taguaí - SP",
         "data_texto": "08/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-taquarivai-sp-promove-concurso-publico-com-salarios-de-ate-14-5-mil": {
-        "titulo": "Prefeitura de Taquarivaí - SP promove Concurso Público com salários de até R$ 14,5 mil",
-        "data_texto": "17/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-viradouro-sp-lanca-edital-de-processo-seletivo-com-diversos-cargos": {
         "titulo": "Prefeitura de Viradouro - SP lança edital de Processo Seletivo com diversos cargos",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/riopretoprev-sp-divulga-retificacao-de-concurso-publico": {
-        "titulo": "RIOPRETOPREV - SP divulga retificação de Concurso Público",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitoria-brasil-sp-divulga-inscricoes-para-processo-seletivo": {
+        "titulo": "Prefeitura de Vitória Brasil - SP divulga inscrições para Processo Seletivo",
+        "data_texto": "03/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/unesp-de-botucatu-sp-divulga-concurso-publico-para-medico-veterinario": {
-        "titulo": "Unesp de Botucatu - SP divulga Concurso Público para Médico Veterinário",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-votorantim-sp-abre-processo-seletivo-com-27-vagas": {
+        "titulo": "Prefeitura de Votorantim - SP abre Processo Seletivo com 27 vagas",
+        "data_texto": "15/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-publico-para-analista-de-informatica-ii-em-araraquara-sp": {
         "titulo": "Unesp abre Concurso Público para Analista de Informática II em Araraquara - SP",
         "data_texto": "28/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/hospital-infantil-candido-fontoura-sp-republica-edital-de-concurso-publico-para-medico": {
-        "titulo": "Hospital Infantil Cândido Fontoura - SP republica edital de Concurso Público para Médico",
-        "data_texto": "08/12/2025 a23/01/2026"
-      },
       "https://www.pciconcursos.com.br/noticias/urbam-anuncia-abertura-de-dois-editais-de-concurso-publico": {
         "titulo": "URBAM anuncia abertura de dois editais de Concurso Público",
         "data_texto": "25/11/2025"
       },
+      "https://portal.glconsultoria.com.br/edital/ver/261": {
+        "titulo": "MUNICÍPIO DE VITÓRIA BRASIL/SP",
+        "data_texto": "03/12/2025"
+      },
+      "https://portal.glconsultoria.com.br/edital/ver/260": {
+        "titulo": "CÃMARA MUNICIPAL DE OCAUÇU/SP",
+        "data_texto": "02/12/2025"
+      },
+      "https://portal.glconsultoria.com.br/edital/ver/259": {
+        "titulo": "MUNICÍPIO DE COLINA/SP",
+        "data_texto": "24/11/2025"
+      },
+      "https://portal.institutoibepp.com.br/edital/ver/31": {
+        "titulo": "PREFEITURA MUNICIPAL DE ITOBI - SP",
+        "data_texto": "30/11/2025"
+      },
+      "https://portal.institutoibepp.com.br/edital/ver/27": {
+        "titulo": "PREFEITURA MUNICIPAL DE FARTURA - SP",
+        "data_texto": "27/11/2025"
+      },
+      "https://portal.institutoibepp.com.br/edital/ver/26": {
+        "titulo": "PREFEITURA MUNICIPAL DE ITOBI - SP",
+        "data_texto": "23/11/2025"
+      },
+      "https://portal.institutoibepp.com.br/edital/ver/25": {
+        "titulo": "PREFEITURA MUNICIPAL DE FARTURA - SP",
+        "data_texto": "23/11/2025"
+      },
       "https://abcp.selecao.net.br/informacoes/2822/": {
-        "titulo": "Concurso PÃºblico - 004/2025 - PREFEITURA MUNICIPAL DE CONCHAL - SP",
+        "titulo": "Concurso Público - 004/2025 - PREFEITURA MUNICIPAL DE CONCHAL - SP",
         "data_texto": "12/01/2026"
       },
       "https://abcp.selecao.net.br/informacoes/2821/": {
-        "titulo": "Concurso PÃºblico - 003/2025 - PREFEITURA MUNICIPAL DE CONCHAL - SP",
+        "titulo": "Concurso Público - 003/2025 - PREFEITURA MUNICIPAL DE CONCHAL - SP",
         "data_texto": "12/01/2026"
       },
       "https://abcp.selecao.net.br/informacoes/2820/": {
-        "titulo": "Concurso PÃºblico - 002/2025 - PREFEITURA MUNICIPAL DE CONCHAL - SP",
+        "titulo": "Concurso Público - 002/2025 - PREFEITURA MUNICIPAL DE CONCHAL - SP",
         "data_texto": "12/01/2026"
       },
       "https://abcp.selecao.net.br/informacoes/2819/": {
-        "titulo": "Concurso PÃºblico - 001/2025 - PREFEITURA MUNICIPAL DE CONCHAL - SP",
+        "titulo": "Concurso Público - 001/2025 - PREFEITURA MUNICIPAL DE CONCHAL - SP",
         "data_texto": "15/12/2025"
       },
       "https://abcp.selecao.net.br/informacoes/2818/": {
-        "titulo": "Concurso PÃºblico - 001/2025 - CÃMARA MUNICIPAL DE DIVINOLÃNDIA - SP",
+        "titulo": "Concurso Público - 001/2025 - CÂMARA MUNICIPAL DE DIVINOLÂNDIA - SP",
         "data_texto": "08/12/2025"
+      },
+      "https://aplicativa.selecao.net.br/informacoes/48/": {
+        "titulo": "Processo Seletivo - 03/2025 - PREFEITURA MUNICIPAL DE PILAR DO SUL/SP",
+        "data_texto": "19/12/2025"
       },
       "https://aplicativa.selecao.net.br/informacoes/47/": {
         "titulo": "Concurso Público - 01/2025 - CÂMARA MUNICIPAL DE TUIUTI/SP",
@@ -485,20 +651,56 @@
         "titulo": "Concurso Público - 01/2025 - CÂMARA MUNICIPAL DE ITIRAPUÃ/SP",
         "data_texto": "21/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/artesp-retifica-concurso-publico-com-142-vagas": {
-        "titulo": "ARTESP retifica Concurso Público com 142 vagas",
-        "data_texto": "01/12/2025"
+      "https://indepac.selecao.net.br/informacoes/67/": {
+        "titulo": "Concurso Público - 01/2025 - Município de Ribeirão Grande/SP",
+        "data_texto": "12/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/ifsp-abre-concurso-publico-para-tecnicos-administrativos-em-educacao": {
-        "titulo": "IFSP abre Concurso Público para Técnicos-Administrativos em Educação",
+      "https://indepac.selecao.net.br/informacoes/65/": {
+        "titulo": "Concurso Público - 05/2025 - Município de Cajamar - SP",
+        "data_texto": "12/12/2025"
+      },
+      "https://indepac.selecao.net.br/informacoes/62/": {
+        "titulo": "Concurso Público - 01/2025 - Câmara Municipal de Santa Rita do Passa Quatro/SP",
+        "data_texto": "05/12/2025"
+      },
+      "https://indepac.selecao.net.br/informacoes/63/": {
+        "titulo": "Concurso Público - 03/2025 - Estância Turística de Avaré/SP",
+        "data_texto": "28/11/2025"
+      },
+      "https://indepac.selecao.net.br/informacoes/68/": {
+        "titulo": "Processo Seletivo - 02/2025 - Município de Jales - SP",
+        "data_texto": "27/11/2025"
+      },
+      "https://indepac.selecao.net.br/informacoes/66/": {
+        "titulo": "Processo Seletivo - 02/2025 - Município de Viradouro/SP",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-cotia-sp-suspende-concurso-publico-com-257-vagas": {
-        "titulo": "Prefeitura de Cotia - SP suspende Concurso Público com 257 vagas",
-        "data_texto": "Suspenso"
+      "https://www.estrategiaconcursos.com.br/blog/concurso-policia-penal-sp/": {
+        "titulo": "Concurso Polícia Penal SP",
+        "data_texto": "08/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-jundiai-sp-abre-concurso-publico-para-o-cargo-de-agente-comunitario-de-saude": {
-        "titulo": "Prefeitura de Jundiaí - SP abre Concurso Público para o cargo de Agente Comunitário de Saúde",
+      "https://www.estrategiaconcursos.com.br/blog/concurso-ses-sp/": {
+        "titulo": "Concurso SES SP",
+        "data_texto": "11/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-sap-sp/": {
+        "titulo": "Concurso Polícia Penal SP",
+        "data_texto": "08/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-ses-sp/": {
+        "titulo": "Concurso SES SP",
+        "data_texto": "11/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-santa-casa-de-sao-carlos-2026/": {
+        "titulo": "Residência Santa Casa SP",
+        "data_texto": "04/01/2026"
+      },
+      "https://blog.grancursosonline.com.br/concurso-gabriel-monteiro-sp/": {
+        "titulo": "Concurso Gabriel Monteiro SP",
+        "data_texto": "30/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-sms-jundiai-sp/": {
+        "titulo": "Concurso SMS Jundiaí SP",
         "data_texto": "20/11/2025"
       }
     },
@@ -519,31 +721,39 @@
         "titulo": "MOBI-Rio lança edital de Processo Seletivo com 125 vagas",
         "data_texto": "20/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/procuradoria-geral-do-rio-de-janeiro-divulga-retificacao-de-concurso-publico-para-procuradores-do-municipio-e-da-camara": {
+        "titulo": "Procuradoria Geral do Rio de Janeiro divulga retificação de Concurso Público para Procuradores do Município e da Câmara",
+        "data_texto": "18/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/secretaria-municipal-de-saude-do-rio-de-janeiro-abre-inscricoes-para-dois-processos-seletivos": {
         "titulo": "Secretaria Municipal de Saúde do Rio de Janeiro abre inscrições para dois Processos Seletivos",
         "data_texto": "23/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/procuradoria-geral-do-rio-de-janeiro-divulga-retificacao-de-concurso-publico-para-procuradores-do-municipio-e-da-camara": {
-        "titulo": "Procuradoria Geral do Rio de Janeiro divulga retificação de Concurso Público para Procuradores do Município e da Câmara",
-        "data_texto": "19/11 a18/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-cabo-frio-rj-publica-processo-seletivo-para-cargo-de-agente-de-postura": {
-        "titulo": "Prefeitura de Cabo Frio - RJ publica Processo Seletivo para cargo de Agente de Postura",
-        "data_texto": "19/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-da-barra-rj-abre-processo-seletivo-para-guarda-vidas": {
+        "titulo": "Prefeitura de São João da Barra - RJ abre Processo Seletivo para Guarda-Vidas",
+        "data_texto": "25/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-do-rio-de-janeiro-rj-divulga-processo-seletivo-para-agentes-de-apoio-a-educacao-especial": {
         "titulo": "Prefeitura do Rio de Janeiro - RJ divulga Processo Seletivo para Agentes de Apoio à Educação Especial",
         "data_texto": "21/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/uerj-abre-edital-de-processo-seletivo-para-cargo-de-assistente-em-administracao-de-projetos": {
-        "titulo": "UERJ abre edital de Processo Seletivo para cargo de Assistente em Administração de Projetos",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/rio-saude-abre-processo-seletivo-para-medicos-com-24-vagas": {
+        "titulo": "Rio Saúde abre Processo Seletivo para médicos com 24 vagas",
+        "data_texto": "25/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-tj-rj/": {
+        "titulo": "Concurso TJ RJ",
+        "data_texto": "27/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-tj-rj/": {
+        "titulo": "Concurso TJ RJ",
+        "data_texto": "27/11/2025"
       }
     },
     "MINAS GERAIS": {
       "https://www.pciconcursos.com.br/noticias/pm-mg-abre-concurso-publico-para-formacao-de-oficiais-da-policia-militar-de-minas-gerais": {
         "titulo": "PM - MG abre Concurso Público para Formação de Oficiais da Polícia Militar de Minas Gerais",
-        "data_texto": "18/11 a18/12/2025"
+        "data_texto": "18/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-alfenas-mg-abre-45-vagas-em-novo-concurso-publico": {
         "titulo": "Prefeitura de Alfenas - MG abre 45 vagas em novo Concurso Público",
@@ -551,19 +761,19 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-betim-mg-publica-concurso-publico-com-mais-de-700-vagas": {
         "titulo": "Prefeitura de Betim - MG publica Concurso Público com mais de 700 vagas",
-        "data_texto": "02/01 a02/02/2026"
+        "data_texto": "02/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-patos-de-minas-mg-divulga-concursos-publicos-com-mais-de-300-vagas": {
         "titulo": "Prefeitura de Patos de Minas - MG divulga Concursos Públicos com mais de 300 vagas",
-        "data_texto": "19/11 a09/12/2025"
+        "data_texto": "09/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/sejusp-mg-abre-concurso-publico-para-policial-penal": {
         "titulo": "SEJUSP - MG abre Concurso Público para Policial Penal",
-        "data_texto": "02 a22/12/2025"
+        "data_texto": "22/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/camara-de-arceburgo-mg-publica-edital-retificado-de-concurso-publico": {
-        "titulo": "Câmara de Arceburgo - MG publica edital retificado de Concurso Público",
-        "data_texto": "01/12/2025 a05/01/2026"
+      "https://www.pciconcursos.com.br/noticias/camara-de-brasilandia-de-minas-mg-abre-10-vagas-em-novo-concurso-publico": {
+        "titulo": "Câmara de Brasilândia de Minas - MG abre 10 vagas em novo Concurso Público",
+        "data_texto": "09/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-caranaiba-mg-promove-concurso-publico-para-controlador-geral": {
         "titulo": "Câmara de Caranaíba - MG promove Concurso Público para Controlador Geral",
@@ -571,31 +781,19 @@
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-curvelo-mg-promove-concurso-publico-com-24-vagas": {
         "titulo": "Câmara de Curvelo - MG promove Concurso Público com 24 vagas",
-        "data_texto": "19/01 a19/02/2026"
+        "data_texto": "19/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-dom-vicoso-mg-divulga-retificacoes-de-concurso-publico": {
         "titulo": "Câmara de Dom Viçoso - MG divulga retificações de Concurso Público",
         "data_texto": "05/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/camara-de-ervalia-mg-abre-concurso-publico-para-cargos-de-nivel-fundamental-e-medio": {
-        "titulo": "Câmara de Ervália - MG abre Concurso Público para cargos de nível fundamental e médio",
-        "data_texto": "15/12/2025 a14/01/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/camara-de-igaratinga-mg-promove-concurso-publico-para-agente-de-contratacao-e-contador": {
-        "titulo": "Câmara de Igaratinga - MG promove Concurso Público para Agente de Contratação e Contador",
-        "data_texto": "29/12/2025 a29/01/2026"
-      },
       "https://www.pciconcursos.com.br/noticias/camara-de-itau-de-minas-mg-abre-concurso-publico-para-assistente-administrativo": {
         "titulo": "Câmara de Itaú de Minas - MG abre Concurso Público para Assistente Administrativo",
         "data_texto": "12/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/camara-de-morro-da-garca-mg-abre-seis-vagas-em-novo-concurso-publico": {
-        "titulo": "Câmara de Morro da Garça - MG abre seis vagas em novo Concurso Público",
-        "data_texto": "11/12/2025 a09/01/2026"
-      },
       "https://www.pciconcursos.com.br/noticias/camara-de-muriae-mg-publica-concurso-publico-com-salarios-de-ate-5-mil": {
         "titulo": "Câmara de Muriaé - MG publica Concurso Público com salários de até R$ 5 mil",
-        "data_texto": "30/01 a02/03/2026"
+        "data_texto": "02/03/2026"
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-santa-barbara-do-tugurio-mg-publica-edital-de-concurso-publico": {
         "titulo": "Câmara de Santa Bárbara do Tugúrio - MG publica edital de Concurso Público",
@@ -607,11 +805,11 @@
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-sao-geraldo-mg-abre-inscricoes-para-edital-de-concurso-publico": {
         "titulo": "Câmara de São Geraldo - MG abre inscrições para edital de Concurso Público",
-        "data_texto": "20/01 a19/02/2026"
+        "data_texto": "19/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-sao-jose-do-divino-mg-promove-concurso-publico": {
         "titulo": "Câmara de São José do Divino - MG promove Concurso Público",
-        "data_texto": "26/11 a29/12/2025"
+        "data_texto": "29/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-sao-sebastiao-do-anta-mg-abre-edital-de-concurso-publico-para-cargos-de-nivel-fundamental": {
         "titulo": "Câmara de São Sebastião do Anta - MG abre edital de Concurso Público para cargos de nível fundamental",
@@ -619,7 +817,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-tabuleiro-mg-promove-concurso-publico-para-agente-legislativo-e-assistente-administrativo": {
         "titulo": "Câmara de Tabuleiro - MG promove Concurso Público para Agente Legislativo e Assistente Administrativo",
-        "data_texto": "24/11 a23/12/2025"
+        "data_texto": "23/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/cis-verde-mg-publica-processo-seletivo-para-motorista": {
         "titulo": "CIS-VERDE - MG publica Processo Seletivo para Motorista",
@@ -627,22 +825,18 @@
       },
       "https://www.pciconcursos.com.br/noticias/ciscen-mg-abre-processo-seletivo-para-diversos-cargos": {
         "titulo": "CISCEN - MG abre Processo Seletivo para diversos cargos",
-        "data_texto": "25/11 a26/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/cisver-mg-publica-abertura-das-inscricoes-para-edital-de-processo-seletivo": {
-        "titulo": "CISVER - MG publica abertura das inscrições para edital de Processo Seletivo",
-        "data_texto": "17/11/2025"
+        "data_texto": "26/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/codamma-mg-abre-processo-seletivo-para-cargo-de-engenheiro-civil-i": {
         "titulo": "CODAMMA - MG abre Processo Seletivo para cargo de Engenheiro Civil I",
-        "data_texto": "21 a26/11/2025"
+        "data_texto": "26/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/cref-da-6-regiao-informa-abertura-das-inscricoes-de-concurso-publico": {
         "titulo": "Cref da 6ª Região informa abertura das inscrições de Concurso Público",
-        "data_texto": "26/11 a26/12/2025"
+        "data_texto": "26/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/faepu-lanca-edital-de-processo-seletivo-para-formar-cadastro-reserva": {
-        "titulo": "Faepu lança edital de Processo Seletivo para formar cadastro reserva",
+      "https://www.pciconcursos.com.br/noticias/faepu-retifica-processo-seletivo-para-formar-cadastro-reserva": {
+        "titulo": "Faepu retifica Processo Seletivo para formar cadastro reserva",
         "data_texto": "07/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/fhemig-divulga-processo-seletivo-com-11-vagas-em-bambui-mg": {
@@ -657,6 +851,10 @@
         "titulo": "FHEMIG abre Processo Seletivo para Técnicos em Farmácia",
         "data_texto": "21/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/fhemig-processo-seletivo-para-medico-anestesiologista-e-divulgado-em-belo-horizonte": {
+        "titulo": "FHEMIG: Processo Seletivo para Médico Anestesiologista é divulgado em Belo Horizonte",
+        "data_texto": "28/11/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/fhemig-abre-processo-seletivo-para-medicos-em-sabara-mg": {
         "titulo": "FHEMIG abre Processo Seletivo para Médicos em Sabará - MG",
         "data_texto": "24/11/2025"
@@ -665,9 +863,21 @@
         "titulo": "FHEMIG publica Processo Seletivo para cargo de Médico Anestesiologia",
         "data_texto": "25/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/hob-mg-abre-inscricoes-para-dois-processos-seletivos": {
-        "titulo": "HOB - MG abre inscrições para dois Processos Seletivos",
-        "data_texto": "19/11/2025"
+      "https://www.pciconcursos.com.br/noticias/fhemig-publica-processo-seletivo-para-cargo-de-medico-endoscopia": {
+        "titulo": "FHEMIG publica Processo Seletivo para cargo de Médico Endoscopia",
+        "data_texto": "25/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-belo-horizonte-mg-divulga-processo-seletivo-com-25-vagas": {
+        "titulo": "Prefeitura de Belo Horizonte - MG divulga Processo Seletivo com 25 vagas",
+        "data_texto": "02/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/hob-mg-divulga-abertura-de-processo-seletivo-para-medicos": {
+        "titulo": "HOB - MG divulga abertura de Processo Seletivo para Médicos",
+        "data_texto": "28/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/icmbio-lanca-processo-seletivo-para-a-cidade-de-buenopolis-mg": {
+        "titulo": "ICMBio lança Processo Seletivo para a cidade de Buenópolis - MG",
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/iprem-de-machado-mg-retifica-edital-de-concurso-publico-com-cinco-vagas": {
         "titulo": "IPREM de Machado - MG retifica edital de Concurso Público com cinco vagas",
@@ -679,39 +889,23 @@
       },
       "https://www.pciconcursos.com.br/noticias/pc-mg-anuncia-abertura-de-concurso-publico-para-cargo-de-tecnico-assistente": {
         "titulo": "PC - MG anuncia abertura de Concurso Público para cargo de Técnico-Assistente",
-        "data_texto": "07/01 a06/02/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/pm-mg-abre-60-vagas-em-novo-concurso-publico": {
-        "titulo": "PM-MG abre 60 vagas em novo Concurso Público",
-        "data_texto": "09/12/2025 a07/01/2026"
+        "data_texto": "06/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-abaete-mg-abre-edital-de-concurso-publico-com-diversos-cargos": {
         "titulo": "Prefeitura de Abaeté - MG abre edital de Concurso Público com diversos cargos",
-        "data_texto": "21/01 a20/02/2026"
+        "data_texto": "20/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradas-mg-promove-concurso-publico-com-44-vagas": {
         "titulo": "Prefeitura de Andradas - MG promove Concurso Público com 44 vagas",
-        "data_texto": "05/01 a09/02/2026"
+        "data_texto": "09/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-antonio-carlos-mg-abre-inscricoes-para-novo-processo-seletivo": {
         "titulo": "Prefeitura de Antônio Carlos - MG abre inscrições para novo Processo Seletivo",
         "data_texto": "12/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-baldim-mg-abre-processo-seletivo-para-profissionais-de-nivel-medio": {
-        "titulo": "Prefeitura de Baldim - MG abre Processo Seletivo para profissionais de nível médio",
-        "data_texto": "27/12/2025 a27/01/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-belmiro-braga-mg-abre-inscricoes-para-processo-seletivo-e-concurso-publico": {
-        "titulo": "Prefeitura de Belmiro Braga - MG abre inscrições para Processo Seletivo e Concurso Público",
-        "data_texto": "09/12/2025 a08/01/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-belo-oriente-mg-abre-processo-seletivo-para-cargos-nivel-medio": {
-        "titulo": "Prefeitura de Belo Oriente - MG abre Processo Seletivo para cargos nível médio",
-        "data_texto": "05/12/2025 a04/01/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-bras-pires-mg-divulga-editais-de-concurso-publico-e-processo-seletivo": {
-        "titulo": "Prefeitura de Brás Pires - MG divulga editais de Concurso Público e Processo Seletivo",
-        "data_texto": "19/11 a19/12/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-bras-pires-mg-divulga-retificacoes-de-concurso-publico-e-processo-seletivo": {
+        "titulo": "Prefeitura de Brás Pires - MG divulga retificações de Concurso Público e Processo Seletivo",
+        "data_texto": "12/03/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-altos-mg-abre-inscricoes-para-processo-seletivo": {
         "titulo": "Prefeitura de Campos Altos - MG abre inscrições para Processo Seletivo",
@@ -719,15 +913,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-central-de-minas-mg-abre-cinco-vagas-em-novo-processo-seletivo": {
         "titulo": "Prefeitura de Central de Minas - MG abre cinco vagas em novo Processo Seletivo",
-        "data_texto": "24/11 a23/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-claudio-mg-abre-processo-seletivo-para-a-secretaria-municipal-de-educacao": {
-        "titulo": "Prefeitura de Cláudio - MG abre Processo Seletivo para a Secretaria Municipal de Educação",
-        "data_texto": "18/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-claudio-mg-publica-processo-seletivo-para-cargo-de-motorista": {
-        "titulo": "Prefeitura de Cláudio - MG publica Processo Seletivo para cargo de Motorista",
-        "data_texto": "19/11/2025"
+        "data_texto": "23/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-coqueiral-mg-lanca-edital-de-processo-seletivo-para-cargos-de-nivel-medio": {
         "titulo": "Prefeitura de Coqueiral - MG lança edital de Processo Seletivo para cargos de nível médio",
@@ -737,49 +923,29 @@
         "titulo": "Prefeitura de Coqueiral - MG abre Processo Seletivo para cargos de nível médio",
         "data_texto": "21/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-delfinopolis-mg-publica-processo-seletivo-para-farmaceutico-do-hospital": {
-        "titulo": "Prefeitura de Delfinópolis - MG publica Processo Seletivo para Farmacêutico do Hospital",
-        "data_texto": "18/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-divino-mg-abre-15-vagas-em-novo-processo-seletivo": {
-        "titulo": "Prefeitura de Divino - MG abre 15 vagas em novo Processo Seletivo",
-        "data_texto": "19/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-estiva-mg-abre-dois-processos-seletivos-para-diversas-areas": {
-        "titulo": "Prefeitura de Estiva - MG abre dois Processos Seletivos para diversas áreas",
-        "data_texto": "18/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-sa-mg-divulga-concurso-publico-com-seis-vagas": {
         "titulo": "Prefeitura de Francisco Sá - MG divulga Concurso Público com seis vagas",
-        "data_texto": "22/01 a23/02/2026"
+        "data_texto": "23/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-galileia-mg-abre-processo-seletivo-para-agente-comunitario-de-saude-e-agente-combate-de-combate-a-endemias": {
         "titulo": "Prefeitura de Galiléia - MG abre Processo Seletivo para Agente Comunitário de Saúde e Agente Combate de Combate a Endemias",
-        "data_texto": "14/01 a13/02/2026"
+        "data_texto": "13/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/inscricoes-para-o-novo-concurso-publico-da-prefeitura-de-guidoval-mg-sao-anunciadas": {
         "titulo": "Inscrições para o novo Concurso Público da Prefeitura de Guidoval - MG são anunciadas",
         "data_texto": "20/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-igarape-mg-realiza-concurso-publico-com-49-vagas-e-cadastro-reserva": {
-        "titulo": "Prefeitura de Igarapé - MG realiza Concurso Público com 49 vagas e cadastro reserva",
-        "data_texto": "19/12/2025 a19/01/2026"
-      },
       "https://www.pciconcursos.com.br/noticias/processo-seletivo-da-prefeitura-de-itueta-mg-abre-vagas-para-nivel-medio": {
         "titulo": "Processo Seletivo da Prefeitura de Itueta - MG abre vagas para nível médio",
-        "data_texto": "02/01 a02/02/2026"
+        "data_texto": "02/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-itumirim-mg-publica-editais-de-concurso-publico-e-processo-seletivo": {
         "titulo": "Prefeitura de Itumirim - MG publica editais de Concurso Público e Processo Seletivo",
         "data_texto": "17/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-iturama-mg-divulga-abertura-de-processo-seletivo-para-cargos-de-nivel-medio": {
-        "titulo": "Prefeitura de Iturama - MG divulga abertura de Processo Seletivo para cargos de nível médio",
-        "data_texto": "01/12/2025 a04/01/2026"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaboticatubas-mg-abre-edital-de-concurso-publico-com-173-vagas": {
         "titulo": "Prefeitura de Jaboticatubas - MG abre edital de Concurso Público com 173 vagas",
-        "data_texto": "02/01 a02/02/2026"
+        "data_texto": "02/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-jequitiba-mg-abre-sete-vagas-em-novo-processo-seletivo": {
         "titulo": "Prefeitura de Jequitibá - MG abre sete vagas em novo Processo Seletivo",
@@ -787,7 +953,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-juvenilia-mg-reabre-inscricoes-para-concurso-publico": {
         "titulo": "Prefeitura de Juvenília - MG reabre inscrições para Concurso Público",
-        "data_texto": "Reabertura de08/01 a09/02/2026"
+        "data_texto": "09/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoa-dourada-mg-divulga-editais-de-concurso-publico-e-processo-seletivo": {
         "titulo": "Prefeitura de Lagoa Dourada - MG divulga editais de Concurso Público e Processo Seletivo",
@@ -795,7 +961,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-processo-seletivo-para-psicologo-e-tecnico-de-enfermagem": {
         "titulo": "Prefeitura de Leopoldina - MG abre Processo Seletivo para Psicólogo e Técnico de Enfermagem",
-        "data_texto": "18 a27/11/2025"
+        "data_texto": "27/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-mariana-mg-abre-processo-seletivo-para-a-secretaria-municipal-de-educacao": {
         "titulo": "Prefeitura de Mariana - MG abre Processo Seletivo para a Secretaria Municipal de Educação",
@@ -803,15 +969,11 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-matias-barbosa-mg-abre-processo-seletivo-para-cargos-de-nivel-medio": {
         "titulo": "Prefeitura de Matias Barbosa - MG abre Processo Seletivo para cargos de nível médio",
-        "data_texto": "26/01 a25/02/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-moeda-mg-publica-processo-seletivo-para-profissionais-de-nivel-medio": {
-        "titulo": "Prefeitura de Moeda - MG publica Processo Seletivo para profissionais de nível médio",
-        "data_texto": "08/12/2025 a08/01/2026"
+        "data_texto": "25/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-de-minas-mg-retifica-edital-de-concurso-publico-e-processo-seletivo": {
         "titulo": "Prefeitura de Monte Alegre de Minas - MG retifica edital de Concurso Público e Processo Seletivo",
-        "data_texto": "Reaberto até25/11/2025"
+        "data_texto": "25/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-da-garca-mg-publica-edital-retificado-de-processo-seletivo": {
         "titulo": "Prefeitura de Morro da Garça - MG publica edital retificado de Processo Seletivo",
@@ -819,7 +981,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-lima-mg-abre-edital-de-processo-seletivo-com-50-vagas": {
         "titulo": "Prefeitura de Nova Lima - MG abre edital de Processo Seletivo com 50 vagas",
-        "data_texto": "19/11 a18/12/2025"
+        "data_texto": "18/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-lima-mg-abre-123-vagas-em-novo-processo-seletivo": {
         "titulo": "Prefeitura de Nova Lima - MG abre 123 vagas em novo Processo Seletivo",
@@ -827,11 +989,19 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-papagaios-mg-abre-edital-de-concurso-publico-com-diversos-cargos": {
         "titulo": "Prefeitura de Papagaios - MG abre edital de Concurso Público com diversos cargos",
-        "data_texto": "06/01 a20/02/2026"
+        "data_texto": "20/02/2026"
+      },
+      "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-atendente-de-consultorio-dentario-e-divulgado-pela-prefeitura-de-paraguacu-mg": {
+        "titulo": "Processo Seletivo para Atendente de Consultório Dentário é divulgado pela Prefeitura de Paraguaçu - MG",
+        "data_texto": "25/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-patrocinio-mg-publica-processo-seletivo-para-agente-de-apoio-escolar": {
         "titulo": "Prefeitura de Patrocínio - MG publica Processo Seletivo para Agente de Apoio Escolar",
         "data_texto": "21/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-pavao-mg-abre-sete-vagas-em-novo-processo-seletivo": {
+        "titulo": "Prefeitura de Pavão - MG abre sete vagas em novo Processo Seletivo",
+        "data_texto": "26/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-pequi-mg-abre-52-vagas-em-novo-concurso-publico": {
         "titulo": "Prefeitura de Pequi - MG abre 52 vagas em novo Concurso Público",
@@ -839,7 +1009,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-pitangui-mg-abre-edital-de-processo-seletivo-para-cargo-de-agente-comunitario-de-saude": {
         "titulo": "Prefeitura de Pitangui - MG abre edital de Processo Seletivo para cargo de Agente Comunitário de Saúde",
-        "data_texto": "26/11 a26/12/2025"
+        "data_texto": "26/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponte-nova-mg-abre-edital-de-processo-seletivo-para-cargo-de-motorista": {
         "titulo": "Prefeitura de Ponte Nova - MG abre edital de Processo Seletivo para cargo de Motorista",
@@ -847,31 +1017,31 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponte-nova-mg-anuncia-quatro-vagas-em-novo-processo-seletivo": {
         "titulo": "Prefeitura de Ponte Nova - MG anuncia quatro vagas em novo Processo Seletivo",
-        "data_texto": "19 a28/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-firme-mg-abre-concurso-publico-para-cargos-de-niveis-medio-e-superior": {
-        "titulo": "Prefeitura de Porto Firme - MG abre Concurso Público para cargos de níveis médio e superior",
-        "data_texto": "16/12/2025 a19/01/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-queluzito-mg-abre-processo-seletivo-para-cargos-de-niveis-fundamental-e-medio": {
-        "titulo": "Prefeitura de Queluzito - MG abre Processo Seletivo para cargos de níveis fundamental e médio",
-        "data_texto": "08/12/2025 a06/01/2026"
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-rodeiro-mg-lanca-edital-de-concurso-publico-com-136-vagas": {
         "titulo": "Prefeitura de Rodeiro - MG lança edital de Concurso Público com 136 vagas",
         "data_texto": "20/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-rosario-da-limeira-mg-abre-processo-seletivo-para-profissionais-de-nivel-medio": {
-        "titulo": "Prefeitura de Rosário da Limeira - MG abre Processo Seletivo para profissionais de nível médio",
-        "data_texto": "20/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-rosario-da-limeira-mg-prorroga-inscricoes-do-processo-seletivo-para-profissionais-de-nivel-medio": {
+        "titulo": "Prefeitura de Rosário da Limeira - MG prorroga inscrições do Processo Seletivo para profissionais de nível médio",
+        "data_texto": "27/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-barbara-do-monte-verde-mg-divulga-editais-de-concurso-publico-e-processo-seletivo": {
         "titulo": "Prefeitura de Santa Bárbara do Monte Verde - MG divulga editais de Concurso Público e Processo Seletivo",
-        "data_texto": "01 a30/12/2025"
+        "data_texto": "30/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-do-amparo-mg-abre-inscricoes-para-edital-de-concurso-publico": {
+        "titulo": "Prefeitura de Santo Antônio do Amparo - MG abre inscrições para edital de Concurso Público",
+        "data_texto": "25/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-manteninha-mg-abre-processo-seletivo-para-profissionais-de-nivel-medio": {
         "titulo": "Prefeitura de São João do Manteninha - MG abre Processo Seletivo para profissionais de nível médio",
-        "data_texto": "24/11 a23/12/2025"
+        "data_texto": "23/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-anta-mg-abre-inscricoes-para-edital-de-concurso-publico-e-processo-seletivo": {
+        "titulo": "Prefeitura de São Miguel do Anta - MG abre inscrições para edital de Concurso Público e Processo Seletivo",
+        "data_texto": "25/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-da-uniao-mg-publica-processo-seletivo-para-cargos-de-nivel-fundamental": {
         "titulo": "Prefeitura de São Pedro da União - MG publica Processo Seletivo para cargos de nível fundamental",
@@ -881,17 +1051,13 @@
         "titulo": "Prefeitura de Seritinga - MG anuncia abertura de dois editais de Processo Seletivo",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-toledo-mg-abre-220-vagas-em-novo-concurso-publico": {
-        "titulo": "Prefeitura de Toledo - MG abre 220 vagas em novo Concurso Público",
-        "data_texto": "14/12/2025 a19/01/2026"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-lagoas-mg-publica-processo-seletivo-com-48-vagas": {
+        "titulo": "Prefeitura de Sete Lagoas - MG publica Processo Seletivo com 48 vagas",
+        "data_texto": "01/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-toledo-mg-publica-processo-seletivo-para-profissionais-de-nivel-medio": {
         "titulo": "Prefeitura de Toledo - MG publica Processo Seletivo para profissionais de nível médio",
-        "data_texto": "02/01 a09/02/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-marias-mg-abre-40-vagas-em-novo-processo-seletivo": {
-        "titulo": "Prefeitura de Três Marias - MG abre 40 vagas em novo Processo Seletivo",
-        "data_texto": "15/12/2025 a15/01/2026"
+        "data_texto": "09/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-uba-mg-abre-processo-seletivo-para-cadastro-de-reserva-em-educacao": {
         "titulo": "Prefeitura de Ubá - MG abre Processo Seletivo para cadastro de reserva em educação",
@@ -905,10 +1071,6 @@
         "titulo": "SAAE de Aimorés - MG retifica Concurso Público com 15 vagas",
         "data_texto": "04/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/sae-de-ituiutaba-mg-publica-edital-de-concurso-publico-com-27-vagas": {
-        "titulo": "SAE de Ituiutaba - MG publica edital de Concurso Público com 27 vagas",
-        "data_texto": "08/12/2025 a08/01/2026"
-      },
       "https://www.pciconcursos.com.br/noticias/ses-mg-anuncia-abertura-de-processo-seletivo-com-diversas-vagas": {
         "titulo": "SES - MG anuncia abertura de Processo Seletivo com diversas vagas",
         "data_texto": "01/12/2025"
@@ -917,17 +1079,9 @@
         "titulo": "TCE - MG publica retificação de Concurso Público",
         "data_texto": "09/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/uemg-publica-abertura-de-dois-editais-de-processo-seletivo": {
-        "titulo": "UEMG publica abertura de dois editais de Processo Seletivo",
-        "data_texto": "19/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/uemg-anuncia-processo-seletivo-para-tecnico-universitario": {
-        "titulo": "UEMG anuncia Processo Seletivo para Técnico Universitário",
-        "data_texto": "19/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/uemg-abre-novo-processo-seletivo-para-analista-universitario": {
         "titulo": "UEMG abre novo Processo Seletivo para Analista Universitário",
-        "data_texto": "19 a26/11/2025"
+        "data_texto": "26/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/ufop-mg-abre-processo-seletivo-para-tradutor-e-interprete-de-libras": {
         "titulo": "UFOP - MG abre Processo Seletivo para Tradutor e Intérprete de Libras",
@@ -937,27 +1091,47 @@
         "titulo": "UFV abre edital de Processo Seletivo para o campus de Florestal",
         "data_texto": "23/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibertioga-mg-retifica-certame-com-151-vagas": {
-        "titulo": "Prefeitura de Ibertioga - MG retifica Certame com 151 vagas",
-        "data_texto": "Suspenso"
+      "https://portal.institutoibepp.com.br/edital/ver/23": {
+        "titulo": "CÂMARA MUNICIPAL DE DOM VIÇOSO - MG",
+        "data_texto": "01/12/2025"
       },
       "https://abcp.selecao.net.br/informacoes/2804/": {
-        "titulo": "Concurso PÃºblico - 001/2025 - CÃMARA MUNICIPAL DE SANTA BÃRBARA DO TUGÃRIO - MG",
+        "titulo": "Concurso Público - 001/2025 - CÂMARA MUNICIPAL DE SANTA BÁRBARA DO TUGÚRIO - MG",
         "data_texto": "27/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-policia-penal-mg/": {
+        "titulo": "Concurso Polícia Penal MG",
+        "data_texto": "22/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-pm-mg/": {
+        "titulo": "Concurso PM MG Oficial",
+        "data_texto": "18/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-tce-mg/": {
+        "titulo": "Concurso TCE MG",
+        "data_texto": "09/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-policia-penal-mg/": {
+        "titulo": "ConcursoPolícia Penal MG",
+        "data_texto": "22/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-tce-mg/": {
+        "titulo": "Concurso TCE MG",
+        "data_texto": "9/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-cref-mg/": {
+        "titulo": "Concurso CREF MG",
+        "data_texto": "26/12/2025"
       }
     },
     "ESPÍRITO SANTO": {
       "https://www.pciconcursos.com.br/noticias/iases-prorroga-inscricoes-de-concursos-publicos-com-mais-de-1-mil-vagas": {
         "titulo": "IASES prorroga inscrições de Concursos Públicos com mais de 1 mil vagas",
-        "data_texto": "Prorrogado até20/11/2025"
+        "data_texto": "20/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/ifes-abre-nove-vagas-em-novo-concurso-publico": {
         "titulo": "IFES abre nove vagas em novo Concurso Público",
         "data_texto": "15/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/ales-publica-retificacoes-de-concursos-publicos": {
-        "titulo": "ALES publica retificações de Concursos Públicos",
-        "data_texto": "Prorrogado até13/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/cim-guandu-es-abre-processo-seletivo-para-analistas-ambientais": {
         "titulo": "CIM Guandu - ES abre Processo Seletivo para Analistas Ambientais",
@@ -967,49 +1141,65 @@
         "titulo": "CRA - ES lança edital de Processo Seletivo para cargo de nível superior",
         "data_texto": "21/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/inova-capixaba-publica-concurso-publico-com-salarios-de-ate-16-7-mil": {
+        "titulo": "iNOVA Capixaba publica Concurso Público com salários de até R$ 16,7 mil",
+        "data_texto": "28/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-afonso-claudio-es-anuncia-abertura-das-inscricoes-para-tres-editais-de-processo-seletivo": {
         "titulo": "Prefeitura de Afonso Cláudio - ES anuncia abertura das inscrições para três editais de Processo Seletivo",
-        "data_texto": "24 a28/11/2025"
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-afonso-claudio-es-anuncia-abertura-de-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Afonso Cláudio - ES anuncia abertura de Processo Seletivo para formar cadastro reserva",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-brejetuba-es-lanca-edital-de-processo-seletivo-para-cargo-de-nivel-superior": {
-        "titulo": "Prefeitura de Brejetuba - ES lança edital de Processo Seletivo para cargo de nível superior",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-guarda-vidas-e-divulgado-pela-prefeitura-de-anchieta-es": {
+        "titulo": "Processo Seletivo para Guarda-Vidas é divulgado pela Prefeitura de Anchieta - ES",
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-irupi-es-divulga-processo-seletivo-para-cargo-de-cuidador-escolar": {
         "titulo": "Prefeitura de Irupi - ES divulga Processo Seletivo para cargo de Cuidador Escolar",
-        "data_texto": "19/11 a04/12/2025"
+        "data_texto": "04/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-motorista-e-divulgado-pela-prefeitura-de-piuma-es": {
-        "titulo": "Processo Seletivo para Motorista é divulgado pela Prefeitura de Piúma - ES",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinheiros-es-divulga-processo-seletivo-para-profissionais-da-area-da-educacao": {
+        "titulo": "Prefeitura de Pinheiros - ES divulga Processo Seletivo para profissionais da área da educação",
+        "data_texto": "07/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-bananal-es-abre-processo-seletivo-profissionais-de-saude": {
-        "titulo": "Prefeitura de Rio Bananal - ES abre Processo Seletivo profissionais de saúde",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/edital-de-processo-seletivo-e-publicado-pela-prefeitura-de-pinheiros-es": {
+        "titulo": "Edital de Processo Seletivo é publicado pela Prefeitura de Pinheiros - ES",
+        "data_texto": "09/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-maria-de-jetiba-es-abre-dois-processos-seletivos-para-cadastro-de-reserva": {
         "titulo": "Prefeitura de Santa Maria de Jetibá - ES abre dois Processos Seletivos para cadastro de reserva",
-        "data_texto": "21 a26/11/2025"
+        "data_texto": "26/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-do-norte-es-abre-processo-seletivo-na-area-da-educacao": {
         "titulo": "Prefeitura de São Domingos do Norte - ES abre Processo Seletivo na área da educação",
-        "data_texto": "18 a24/11/2025"
+        "data_texto": "24/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/edital-de-processo-seletivo-e-publicado-pela-prefeitura-de-sao-gabriel-da-palha-es": {
         "titulo": "Edital de Processo Seletivo é publicado pela Prefeitura de São Gabriel da Palha - ES",
-        "data_texto": "18 a27/11/2025"
+        "data_texto": "27/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-viana-es-abre-novo-edital-de-processo-seletivo": {
         "titulo": "Prefeitura de Viana - ES abre novo edital de Processo Seletivo",
         "data_texto": "23/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-viana-es-abre-edital-de-processo-seletivo-para-cargos-de-nivel-superior": {
+        "titulo": "Prefeitura de Viana - ES abre edital de Processo Seletivo para cargos de nível superior",
+        "data_texto": "01/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/saae-de-sooretama-es-abre-26-vagas-em-novo-processo-seletivo": {
+        "titulo": "SAAE de Sooretama - ES abre 26 vagas em novo Processo Seletivo",
+        "data_texto": "23/11/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/sedu-es-publica-processo-seletivo-para-profissionais-de-apoio-escolar": {
         "titulo": "SEDU - ES publica Processo Seletivo para Profissionais de Apoio Escolar",
         "data_texto": "24/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-iases-es/": {
+        "titulo": "Concurso Iases ES",
+        "data_texto": "20/11/2025"
       }
     },
     "PARANÁ": {
@@ -1035,11 +1225,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-serranopolis-do-iguacu-pr-anunciou-duas-vagas-em-novo-concurso-publico": {
         "titulo": "Câmara de Serranópolis do Iguaçu - PR anunciou duas vagas em novo Concurso Público",
-        "data_texto": "18/11 a18/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/ciasop-promove-concurso-para-emprego-publico-com-16-vagas": {
-        "titulo": "CIASOP promove Concurso para Emprego Público com 16 vagas",
-        "data_texto": "17/11/2025"
+        "data_texto": "18/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/cis-comcam-abre-inscricoes-para-edital-de-concurso-publico": {
         "titulo": "CIS - COMCAM abre inscrições para edital de Concurso Público",
@@ -1053,10 +1239,6 @@
         "titulo": "CRM-PR publica retificação de Concurso Público",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-barracao-pr-abre-processo-seletivo-para-diversas-areas": {
-        "titulo": "Prefeitura de Barracão - PR abre Processo Seletivo para diversas áreas",
-        "data_texto": "17/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-sucesso-do-sul-pr-anuncia-abertura-das-inscricoes-para-edital-de-processo-seletivo": {
         "titulo": "Prefeitura de Bom Sucesso do Sul - PR anuncia abertura das inscrições para edital de Processo Seletivo",
         "data_texto": "27/11/2025"
@@ -1065,21 +1247,9 @@
         "titulo": "Prefeitura de Castro - PR divulga abertura de Concurso Público com diversas vagas",
         "data_texto": "09/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-corumbatai-do-sul-pr-abre-novo-processo-seletivo-para-medico": {
-        "titulo": "Prefeitura de Corumbataí do Sul - PR abre novo Processo Seletivo para Médico",
-        "data_texto": "18/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruzeiro-do-oeste-pr-divulga-retificacao-de-processo-seletivo": {
         "titulo": "Prefeitura de Cruzeiro do Oeste - PR divulga retificação de Processo Seletivo",
         "data_texto": "01/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pr-publica-dois-editais-de-concursos-publicos": {
-        "titulo": "Prefeitura de Floresta - PR publica dois editais de Concursos Públicos",
-        "data_texto": "18/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaraniacu-pr-anuncia-inscricoes-para-dois-concursos-publicos": {
-        "titulo": "Prefeitura de Guaraniaçu - PR anuncia inscrições para dois Concursos Públicos",
-        "data_texto": "25/11/2025 a08/01/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivate-pr-publica-retificacao-de-concurso-publico": {
         "titulo": "Prefeitura de Ivaté - PR publica retificação de Concurso Público",
@@ -1093,17 +1263,9 @@
         "titulo": "Prefeitura de Joaquim Távora - PR promove Concurso Público com salários de até R$ 10,6 mil",
         "data_texto": "07/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-jundiai-do-sul-pr-publica-retificacao-de-concurso-publico": {
-        "titulo": "Prefeitura de Jundiaí do Sul - PR publica retificação de Concurso Público",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-mandaguari-pr-reabre-inscricoes-de-concurso-publico-para-guarda-civil-municipal": {
-        "titulo": "Prefeitura de Mandaguari - PR reabre inscrições de Concurso Público para Guarda Civil Municipal",
-        "data_texto": "Reaberto até03/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-mandaguari-pr-publica-tres-processos-seletivos-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Mandaguari - PR publica três Processos Seletivos para formar cadastro reserva",
-        "data_texto": "01 a02/12/2025"
+        "data_texto": "02/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-mandaguari-pr-publica-processo-seletivo-para-cargo-de-enfermeiro": {
         "titulo": "Prefeitura de Mandaguari - PR publica Processo Seletivo para cargo de Enfermeiro",
@@ -1125,29 +1287,25 @@
         "titulo": "Prefeitura de Nova Prata do Iguaçu - PR abre Processo Seletivo para Médico Veterinário",
         "data_texto": "01/12/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-santa-rosa-pr-abre-edital-de-concurso-publico-com-diversos-cargos": {
+        "titulo": "Prefeitura de Nova Santa Rosa - PR abre edital de Concurso Público com diversos cargos",
+        "data_texto": "26/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-pato-branco-pr-divulga-processo-seletivo-para-instrutores-de-aprendizagem": {
         "titulo": "Prefeitura de Pato Branco - PR divulga Processo Seletivo para Instrutores de Aprendizagem",
         "data_texto": "04/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-paula-freitas-pr-abre-processo-seletivo-para-assistente-social": {
-        "titulo": "Prefeitura de Paula Freitas - PR abre Processo Seletivo para Assistente Social",
-        "data_texto": "19/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulo-frontin-pr-abre-concurso-publico-com-18-vagas": {
         "titulo": "Prefeitura de Paulo Frontin - PR abre Concurso Público com 18 vagas",
-        "data_texto": "20/11 a18/12/2025"
+        "data_texto": "18/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-planalto-pr-anuncia-processo-seletivo-para-cadastro-de-reserva": {
-        "titulo": "Prefeitura de Planalto - PR anuncia Processo Seletivo para cadastro de reserva",
-        "data_texto": "19/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-quatigua-pr-abre-39-vagas-em-novo-processo-seletivo": {
+        "titulo": "Prefeitura de Quatiguá - PR abre 39 vagas em novo Processo Seletivo",
+        "data_texto": "04/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-realeza-pr-publica-processo-seletivo-para-cargos-de-niveis-fundamental-e-superior": {
         "titulo": "Prefeitura de Realeza - PR publica Processo Seletivo para cargos de níveis fundamental e superior",
         "data_texto": "26/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-bonito-do-iguacu-pr-abre-concurso-publico-com-55-vagas": {
-        "titulo": "Prefeitura de Rio Bonito do Iguaçú - PR abre Concurso Público com 55 vagas",
-        "data_texto": "Suspenso"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-amelia-pr-abre-26-vagas-em-novo-concurso-publico": {
         "titulo": "Prefeitura de Santa Amélia - PR abre 26 vagas em novo Concurso Público",
@@ -1157,10 +1315,6 @@
         "titulo": "Prefeitura de São José da Boa Vista - PR divulga Processo Seletivo para cargos de nível médio",
         "data_texto": "01/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-iguacu-pr-divulga-processo-seletivo-para-diversos-cargos": {
-        "titulo": "Prefeitura de São Pedro do Iguaçu - PR divulga Processo Seletivo para diversos cargos",
-        "data_texto": "19/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-parana-pr-abre-tres-vagas-em-novo-processo-seletivo": {
         "titulo": "Prefeitura de São Pedro do Paraná - PR abre três vagas em novo Processo Seletivo",
         "data_texto": "28/11/2025"
@@ -1168,10 +1322,6 @@
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-sebastiao-da-amoreira-pr-abre-50-vagas-em-processo-seletivo": {
         "titulo": "Prefeitura de São Sebastião da Amoreira - PR abre 50 vagas em Processo Seletivo",
         "data_texto": "28/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-turvo-pr-abre-processo-seletivo-com-65-vagas": {
-        "titulo": "Prefeitura de Turvo - PR abre Processo Seletivo com 65 vagas",
-        "data_texto": "19/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-uniflor-pr-abre-concurso-publico-com-11-vagas": {
         "titulo": "Prefeitura de Uniflor - PR abre Concurso Público com 11 vagas",
@@ -1188,6 +1338,34 @@
       "https://www.pciconcursos.com.br/noticias/unespar-abre-21-vagas-em-novo-concurso-publico": {
         "titulo": "UNESPAR abre 21 vagas em novo Concurso Público",
         "data_texto": "01/12/2025"
+      },
+      "https://institutounicampo.com.br/concurso/processo-de-selecao-de-pessoal-psp-concurso-publico-do-municipio-de-nova-santa-rosa-pr_": {
+        "titulo": "Processo de Seleção de Pessoal - PSP - Concurso Público do Município de Nova Santa Rosa -Pr.",
+        "data_texto": "26/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-sefaz-pr/": {
+        "titulo": "Concurso Sefaz PR",
+        "data_texto": "03/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-crm-pr/": {
+        "titulo": "Concurso CRM PR",
+        "data_texto": "24/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-sefaz-pr-agente-fazendario-edital-publicado-2025/": {
+        "titulo": "Concurso Sefaz PR",
+        "data_texto": "03/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-crm-pr": {
+        "titulo": "Concurso CRM PR",
+        "data_texto": "24/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-guarda-curitiba-pr/": {
+        "titulo": "Concurso Guarda Curitiba PR",
+        "data_texto": "24/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-cascavel-pr-edital-publicado-2025/": {
+        "titulo": "Concurso Cascavel PR",
+        "data_texto": "25/11/2025"
       }
     },
     "RIO GRANDE DO SUL": {
@@ -1203,37 +1381,29 @@
         "titulo": "Marinha do Brasil abre Concurso Público para Serviço Militar Voluntário junto ao Com5ºDN",
         "data_texto": "08/01/2026"
       },
-      "https://www.pciconcursos.com.br/noticias/core-rs-retifica-concurso-publico-com-oito-vagas-em-quatro-cidades-do-rio-grande-do-sul": {
-        "titulo": "CORE - RS retifica Concurso Público com oito vagas em quatro cidades do Rio Grande do Sul",
-        "data_texto": "Prorrogado até05/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/eletrocar-rs-promove-concurso-publico-para-profissionais-de-nivel-medio": {
-        "titulo": "ELETROCAR - RS promove Concurso Público para profissionais de nível médio",
-        "data_texto": "18/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/faurgs-abre-processo-seletivo-com-25-vagas": {
         "titulo": "FAURGS abre Processo Seletivo com 25 vagas",
         "data_texto": "23/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/icmbio-abre-processo-seletivo-para-agentes-temporarios-ambientais-em-santana-do-livramento-rs": {
         "titulo": "ICMBio abre Processo Seletivo para agentes temporários ambientais em Santana do Livramento - RS",
-        "data_texto": "18 a24/11/2025"
+        "data_texto": "24/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-agudo-rs-retifica-concurso-publico-com-salarios-de-ate-13-mil": {
         "titulo": "Prefeitura de Agudo - RS retifica Concurso Público com salários de até R$ 13 mil",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-bage-rs-abre-processo-seletivo-para-cargo-de-oficial-administrativo": {
-        "titulo": "Prefeitura de Bagé - RS abre Processo Seletivo para cargo de Oficial Administrativo",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-alecrim-rs-abre-vagas-em-novo-concurso-publico": {
+        "titulo": "Prefeitura de Alecrim - RS abre vagas em novo Concurso Público",
+        "data_texto": "17/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-anta-gorda-rs-abre-inscricoes-para-tres-processos-seletivo": {
+        "titulo": "Prefeitura de Anta Gorda - RS abre inscrições para três Processos Seletivo",
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-bage-rs-publica-processo-seletivo-para-profissionais-de-nivel-superior": {
         "titulo": "Prefeitura de Bagé - RS publica Processo Seletivo para profissionais de nível superior",
-        "data_texto": "18 a21/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-de-cotegipe-rs-abre-processo-seletivo-para-cargo-de-farmaceutico": {
-        "titulo": "Prefeitura de Barão de Cotegipe - RS abre Processo Seletivo para cargo de Farmacêutico",
-        "data_texto": "18/11/2025"
+        "data_texto": "21/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-ribeiro-rs-publica-processo-seletivo-para-profissionais-de-nivel-medio": {
         "titulo": "Prefeitura de Barra do Ribeiro - RS publica Processo Seletivo para profissionais de nível médio",
@@ -1242,14 +1412,6 @@
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-sul-rs-abre-processo-seletivo-para-medico-de-familia": {
         "titulo": "Prefeitura de Boa Vista do Sul - RS abre Processo Seletivo para Médico de Família",
         "data_texto": "21/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-operador-de-maquinas-e-divulgado-pela-prefeitura-de-boa-vista-do-sul-rs": {
-        "titulo": "Processo Seletivo para Operador de Máquinas é divulgado pela Prefeitura de Boa Vista do Sul - RS",
-        "data_texto": "18/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-principio-rs-publica-retificacao-de-concurso-publico": {
-        "titulo": "Prefeitura de Bom Princípio - RS publica retificação de Concurso Público",
-        "data_texto": "18/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-operario-e-divulgado-pela-prefeitura-de-bozano-rs": {
         "titulo": "Processo Seletivo para Operário é divulgado pela Prefeitura de Bozano - RS",
@@ -1287,6 +1449,10 @@
         "titulo": "Prefeitura de Crissiumal - RS abre Processo Seletivo para cargo de nível superior",
         "data_texto": "26/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-david-canabarro-rs-abre-concurso-publico-com-23-vagas": {
+        "titulo": "Prefeitura de David Canabarro - RS abre Concurso Público com 23 vagas",
+        "data_texto": "18/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-encantado-rs-divulga-concurso-publico-com-salarios-de-ate-5-9-mil": {
         "titulo": "Prefeitura de Encantado - RS divulga Concurso Público com salários de até R$ 5,9 mil",
         "data_texto": "09/12/2025"
@@ -1295,17 +1461,9 @@
         "titulo": "Prefeitura de Garibaldi - RS retifica Processo Seletivo para diversos cargos",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-gravatai-rs-promove-inscricoes-para-dois-concursos-publicos": {
-        "titulo": "Prefeitura de Gravataí - RS promove inscrições para dois Concursos Públicos",
-        "data_texto": "18/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-herveiras-rs-publica-processo-seletivo-com-salarios-de-ate-11-6-mil": {
         "titulo": "Prefeitura de Herveiras - RS publica Processo Seletivo com salários de até R$ 11,6 mil",
         "data_texto": "26/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiraiaras-rs-abre-processo-seletivo-para-cargo-de-medico-pediatra": {
-        "titulo": "Prefeitura de Ibiraiaras - RS abre Processo Seletivo para cargo de Médico Pediatra",
-        "data_texto": "19/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-medico-pediatra-e-divulgado-pela-prefeitura-de-ibiruba-rs": {
         "titulo": "Processo Seletivo para Médico Pediatra é divulgado pela Prefeitura de Ibirubá - RS",
@@ -1319,13 +1477,13 @@
         "titulo": "Prefeitura de Ipê - RS informa abertura de edital de Processo Seletivo para cargo de Visitador PIM",
         "data_texto": "21/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivora-rs-abre-edital-de-processo-seletivo-para-cargo-de-eletricista": {
-        "titulo": "Prefeitura de Ivorá - RS abre edital de Processo Seletivo para cargo de Eletricista",
-        "data_texto": "19/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivoti-rs-abre-inscricoes-para-edital-de-concurso-publico-com-diversos-cargos": {
         "titulo": "Prefeitura de Ivoti - RS abre inscrições para edital de Concurso Público com diversos cargos",
         "data_texto": "04/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguarao-rs-abre-processo-seletivo-para-cargo-de-medico-esf": {
+        "titulo": "Prefeitura de Jaguarão - RS abre Processo Seletivo para cargo de Médico ESF",
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguari-rs-promove-concurso-publico-com-25-vagas": {
         "titulo": "Prefeitura de Jaguari - RS promove Concurso Público com 25 vagas",
@@ -1335,41 +1493,33 @@
         "titulo": "Prefeitura de Lindolfo Collor - RS retifica edital de Concurso Público para formar cadastro reserva",
         "data_texto": "26/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-rs-retifica-edital-de-processo-seletivo-para-cargo-de-medico-veterinario": {
-        "titulo": "Prefeitura de Marau - RS retifica edital de Processo Seletivo para cargo de Médico Veterinário",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-vereadores-de-mato-castelhano-rs-divulgam-dois-concursos-publicos": {
+        "titulo": "Prefeitura e Câmara de Vereadores de Mato Castelhano - RS divulgam dois Concursos Públicos",
+        "data_texto": "08/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-visitador-do-pim-e-divulgado-pela-prefeitura-de-pantano-grande-rs": {
-        "titulo": "Processo Seletivo para Visitador do PIM é divulgado pela Prefeitura de Pântano Grande - RS",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-rs-lanca-concurso-publico-para-cargo-de-auxiliar-de-administracao": {
+        "titulo": "Prefeitura de Nova Prata - RS lança Concurso Público para cargo de Auxiliar de Administração",
+        "data_texto": "17/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-concurso-publico-para-cargos-de-nivel-superior": {
-        "titulo": "Prefeitura de Pelotas - RS abre Concurso Público para cargos de nível superior",
-        "data_texto": "15/12/2025 a20/01/2026"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-passo-fundo-rs-publica-processo-seletivo-com-17-vagas": {
+        "titulo": "Prefeitura de Passo Fundo - RS publica Processo Seletivo com 17 vagas",
+        "data_texto": "05/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-divulga-processo-seletivo-para-fonoaudiologos": {
         "titulo": "Prefeitura de Pelotas - RS divulga Processo Seletivo para Fonoaudiólogos",
         "data_texto": "24/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-divulga-processo-seletivo-para-cargo-de-operador-de-maquinas": {
+        "titulo": "Prefeitura de Pelotas - RS divulga Processo Seletivo para cargo de Operador de Máquinas",
+        "data_texto": "29/11/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-planalto-rs-divulga-dois-editais-de-concursos-publicos": {
         "titulo": "Prefeitura de Planalto - RS divulga dois editais de Concursos Públicos",
         "data_texto": "02/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-publica-retificacao-de-concurso-publico": {
-        "titulo": "Prefeitura de Porto Alegre - RS publica retificação de Concurso Público",
-        "data_texto": "18/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-roca-sales-rs-retoma-concurso-publico": {
         "titulo": "Prefeitura de Roca Sales - RS retoma Concurso Público",
-        "data_texto": "Reaberto até10/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/edital-de-processo-seletivo-para-medico-psiquiatra-e-divulgado-pela-prefeitura-de-santa-cruz-do-sul-rs": {
-        "titulo": "Edital de Processo Seletivo para Médico Psiquiatra é divulgado pela Prefeitura de Santa Cruz do Sul - RS",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-do-sul-rs-anuncia-inscricoes-para-oito-processos-seletivos": {
-        "titulo": "Prefeitura de Santa Cruz do Sul - RS anuncia inscrições para oito Processos Seletivos",
-        "data_texto": "18/11/2025"
+        "data_texto": "10/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-da-boa-vista-rs-abre-processos-seletivos-para-farmaceutico-e-auxiliar-de-saude-bucal": {
         "titulo": "Prefeitura de Santana da Boa Vista - RS abre Processos Seletivos para Farmacêutico e Auxiliar de Saúde Bucal",
@@ -1377,27 +1527,23 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-da-boa-vista-rs-publica-abertura-de-dois-editais-de-processo-seletivo": {
         "titulo": "Prefeitura de Santana da Boa Vista - RS publica abertura de dois editais de Processo Seletivo",
-        "data_texto": "24/11 a03/12/2025"
+        "data_texto": "03/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-processo-seletivo-na-area-da-educacao": {
-        "titulo": "Prefeitura de Santo Antônio da Patrulha - RS abre Processo Seletivo na área da educação",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-leopoldo-rs-publica-edital-de-processo-seletivo-com-17-vagas": {
-        "titulo": "Prefeitura de São Leopoldo - RS publica edital de Processo Seletivo com 17 vagas",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-norte-rs-abre-3-vagas-em-novo-processo-seletivo": {
+        "titulo": "Prefeitura de São José do Norte - RS abre 3 vagas em novo Processo Seletivo",
+        "data_texto": "25/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-sebastiao-do-cai-rs-promove-concurso-publico-para-monitor-de-educacao-infantil": {
         "titulo": "Prefeitura de São Sebastião do Caí - RS promove Concurso Público para Monitor de Educação Infantil",
         "data_texto": "28/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-valerio-do-sul-sc-abre-processo-seletivo-para-nivel-superior": {
-        "titulo": "Prefeitura de São Valério do Sul - SC abre Processo Seletivo para nível superior",
-        "data_texto": "19/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/processo-seletivo-para-auxiliar-administrativo-de-execucao-fiscal-e-divulgado-pela-prefeitura-de-tabai-rs": {
         "titulo": "Processo Seletivo para Auxiliar Administrativo de Execução Fiscal é divulgado pela Prefeitura de Tabaí - RS",
         "data_texto": "21/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-passos-rs-abre-inscricoes-para-dois-concursos-publicos": {
+        "titulo": "Prefeitura de Três Passos - RS abre inscrições para dois Concursos Públicos",
+        "data_texto": "17/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-tupanci-do-sul-rs-abre-14-vagas-em-novo-concurso-publico": {
         "titulo": "Prefeitura de Tupanci do Sul - RS abre 14 vagas em novo Concurso Público",
@@ -1411,14 +1557,6 @@
         "titulo": "Prefeitura de Vista Alegre do Prata - RS publica Concurso Público para cargos de níveis médio e superior",
         "data_texto": "28/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-westfalia-rs-abre-novo-processo-seletivo-para-medico-veterinario": {
-        "titulo": "Prefeitura de Westfália - RS abre novo Processo Seletivo para Médico Veterinário",
-        "data_texto": "19/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sertao-santana-rs-divulga-retificacao-de-concurso-publico": {
-        "titulo": "Prefeitura de Sertão Santana - RS divulga retificação de Concurso Público",
-        "data_texto": "17/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/unipampa-divulga-concurso-publico-com-34-vagas": {
         "titulo": "Unipampa divulga Concurso Público com 34 vagas",
         "data_texto": "01/12/2025"
@@ -1426,12 +1564,24 @@
       "https://www.pciconcursos.com.br/noticias/unipampa-divulga-abertura-de-edital-de-concurso-publico-com-32-vagas": {
         "titulo": "Unipampa divulga abertura de edital de Concurso Público com 32 vagas",
         "data_texto": "01/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-policia-civil-rs/": {
+        "titulo": "Concurso PC RS",
+        "data_texto": "26/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-policia-civil-rs/": {
+        "titulo": "Concurso PC RS",
+        "data_texto": "26/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-sme-pelotas-rs/": {
+        "titulo": "Concurso SME Pelotas RS",
+        "data_texto": "20/01/2026"
       }
     },
     "SANTA CATARINA": {
       "https://www.pciconcursos.com.br/noticias/companhia-aguas-de-joinville-sc-prorroga-inscricoes-do-concurso-publico-para-diversos-niveis-de-escolaridade": {
         "titulo": "Companhia Águas de Joinville - SC prorroga inscrições do Concurso Público para diversos níveis de escolaridade",
-        "data_texto": "Prorrogado até24/11/2025"
+        "data_texto": "24/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-taio-sc-divulga-retificacao-de-dois-editais-de-concursos-publicos": {
         "titulo": "Prefeitura de Taió - SC divulga retificação de dois editais de Concursos Públicos",
@@ -1439,7 +1589,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/secretaria-da-saude-de-santa-catarina-retifica-e-prorroga-concurso-publico": {
         "titulo": "Secretaria da Saúde de Santa Catarina retifica e prorroga Concurso Público",
-        "data_texto": "Prorrogado até20/11/2025"
+        "data_texto": "20/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/amplasc-lanca-processo-seletivo-para-cargos-de-nivel-superior": {
         "titulo": "Amplasc lança Processo Seletivo para cargos de nível superior",
@@ -1447,7 +1597,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-ituporanga-sc-abre-inscricoes-para-edital-de-processo-seletivo": {
         "titulo": "Câmara de Ituporanga - SC abre inscrições para edital de Processo Seletivo",
-        "data_texto": "22/11 a06/12/2025"
+        "data_texto": "06/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-presidente-castello-branco-sc-promove-concurso-publico-para-contador": {
         "titulo": "Câmara de Presidente Castello Branco - SC promove Concurso Público para Contador",
@@ -1465,13 +1615,25 @@
         "titulo": "Câmara de São Joaquim - SC divulga abertura de Processo Seletivo",
         "data_texto": "21/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/cim-amfri-sc-publica-processo-seletivo-para-cargos-de-nivel-superior": {
+        "titulo": "CIM-AMFRI - SC publica Processo Seletivo para cargos de nível superior",
+        "data_texto": "12/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/safi-de-santa-catarina-sc-abre-concurso-publico-para-formacao-de-cadastro-reserva": {
         "titulo": "SAFI de Santa Catarina - SC abre Concurso Público para formação de cadastro reserva",
-        "data_texto": "19/11 a08/12/2025"
+        "data_texto": "08/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/ebserh-publica-abertura-de-edital-de-processo-seletivo-para-cargo-de-medico": {
+        "titulo": "EBSERH publica abertura de edital de Processo Seletivo para cargo de Médico",
+        "data_texto": "23/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/fahece-promove-um-novo-processo-seletivo-em-florianopolis-sc": {
         "titulo": "Fahece promove um novo Processo Seletivo em Florianópolis - SC",
         "data_texto": "20/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/fahece-publica-processo-seletivo-para-cargo-de-enfermeiro-i-central-de-quimioterapia": {
+        "titulo": "Fahece publica Processo Seletivo para cargo de Enfermeiro I Central de Quimioterapia",
+        "data_texto": "24/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/fundacao-inoversasul-sc-abre-11-vagas-em-novo-processo-seletivo": {
         "titulo": "Fundação Inoversasul - SC abre 11 vagas em novo Processo Seletivo",
@@ -1480,10 +1642,6 @@
       "https://www.pciconcursos.com.br/noticias/icmbio-abre-edital-de-processo-seletivo-para-a-cidade-de-ibirama-sc": {
         "titulo": "ICMBio abre edital de Processo Seletivo para a cidade de Ibirama - SC",
         "data_texto": "21/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/imas-sc-publica-edital-de-processo-seletivo-para-cargo-de-tecnico-em-enfermagem": {
-        "titulo": "IMAS - SC publica edital de Processo Seletivo para cargo de Técnico em Enfermagem",
-        "data_texto": "18/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/imas-abre-processo-seletivo-para-medico-plantonista-em-santa-catarina": {
         "titulo": "IMAS abre Processo Seletivo para Médico Plantonista em Santa Catarina",
@@ -1513,25 +1671,25 @@
         "titulo": "IMAS informa abertura de Processo Seletivo para o cargo de Médico",
         "data_texto": "30/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/imas-sc-publica-edital-de-processo-seletivo-para-cargo-de-tecnico-de-laboratorio": {
-        "titulo": "IMAS - SC publica edital de Processo Seletivo para cargo de Técnico de Laboratório",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/imas-sc-publica-edital-de-processo-seletivo-para-cargo-de-cozinheiro": {
-        "titulo": "IMAS - SC publica edital de Processo Seletivo para cargo de Cozinheiro",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/imas-processo-seletivo-para-farmaceutico-e-divulgado-no-hospital-de-florianopolis-sc": {
+        "titulo": "IMAS: Processo Seletivo para Farmacêutico é divulgado no Hospital de Florianópolis - SC",
+        "data_texto": "30/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/imas-divulga-novo-processo-seletivo-para-medico-especialista": {
         "titulo": "IMAS divulga novo Processo Seletivo para Médico Especialista",
         "data_texto": "30/12/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/imas-sc-divulga-processo-seletivo-para-fisioterapeuta-no-hospital-de-florianopolis": {
+        "titulo": "IMAS - SC divulga Processo Seletivo para Fisioterapeuta no Hospital de Florianópolis",
+        "data_texto": "25/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-abdon-batista-sc-publica-abertura-de-concurso-publico-e-processo-seletivo": {
+        "titulo": "Prefeitura de Abdon Batista - SC publica abertura de Concurso Público e Processo Seletivo",
+        "data_texto": "01/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-bela-vista-sc-publica-edital-de-concurso-publico": {
         "titulo": "Prefeitura de Alto Bela Vista - SC publica edital de Concurso Público",
         "data_texto": "24/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-bela-vista-sc-anuncia-abertura-das-inscricoes-para-novo-processo-seletivo": {
-        "titulo": "Prefeitura de Alto Bela Vista - SC anuncia abertura das inscrições para novo Processo Seletivo",
-        "data_texto": "19/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-anita-garibaldi-sc-publica-edital-de-processo-seletivo": {
         "titulo": "Prefeitura de Anita Garibaldi - SC publica edital de Processo Seletivo",
@@ -1541,13 +1699,21 @@
         "titulo": "Prefeitura de Anitápolis - SC abre Processo Seletivo com salários de até R$ 4,9 mil",
         "data_texto": "30/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-balneario-arroio-do-silva-sc-retifica-processo-seletivo-com-diversas-oportunidades": {
-        "titulo": "Prefeitura de Balneário Arroio do Silva - SC retifica Processo Seletivo com diversas oportunidades",
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-balneario-arroio-do-silva-sc-publica-retificacao-de-processo-seletivo": {
+        "titulo": "Prefeitura de Balneário Arroio do Silva - SC publica retificação de Processo Seletivo",
         "data_texto": "02/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/edital-de-processo-seletivo-e-divulgado-pela-prefeitura-de-balneario-gaivota-sc": {
         "titulo": "Edital de Processo Seletivo é divulgado pela Prefeitura de Balneário Gaivota - SC",
         "data_texto": "27/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-balneario-rincao-sc-divulga-processo-seletivo-para-formar-cadastro-reserva": {
+        "titulo": "Prefeitura de Balneário Rincão - SC divulga Processo Seletivo para formar cadastro reserva",
+        "data_texto": "14/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/samae-de-balneario-rincao-sc-publica-processo-seletivo-para-operador-de-eta-e-calceteiro": {
+        "titulo": "SAMAE de Balneário Rincão - SC publica Processo Seletivo para Operador de ETA e Calceteiro",
+        "data_texto": "26/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-bandeirante-sc-abre-processo-seletivo-com-salarios-de-ate-5-9-mil": {
         "titulo": "Prefeitura de Bandeirante - SC abre Processo Seletivo com salários de até R$ 5,9 mil",
@@ -1555,11 +1721,11 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-velha-sc-abre-edital-de-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Barra Velha - SC abre edital de Processo Seletivo para formar cadastro reserva",
-        "data_texto": "19/11 a17/12/2025"
+        "data_texto": "17/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-bela-vista-do-toldo-sc-abre-edital-de-processo-seletivo-com-diversos-cargos": {
         "titulo": "Prefeitura de Bela Vista do Toldo - SC abre edital de Processo Seletivo com diversos cargos",
-        "data_texto": "24 a26/11/2025"
+        "data_texto": "26/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-biguacu-sc-publica-retificacao-de-processo-seletivo": {
         "titulo": "Prefeitura de Biguaçu - SC publica retificação de Processo Seletivo",
@@ -1573,10 +1739,6 @@
         "titulo": "Prefeitura de Bom Jardim da Serra - SC abre 45 vagas em novo Processo Seletivo",
         "data_texto": "08/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-bombinhas-sc-divulga-retificacao-de-processo-seletivo-com-salarios-de-ate-11-mil": {
-        "titulo": "Prefeitura de Bombinhas - SC divulga retificação de Processo Seletivo com salários de até R$ 11 mil",
-        "data_texto": "18/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-retifica-processo-seletivo-para-cadastro-reserva": {
         "titulo": "Prefeitura de Braço do Norte - SC retifica Processo Seletivo para cadastro reserva",
         "data_texto": "30/11/2025"
@@ -1585,9 +1747,9 @@
         "titulo": "Prefeitura de Brunópolis - SC abre Concurso Público com 19 vagas",
         "data_texto": "10/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-brusque-sc-abre-concurso-publico-com-30-vagas": {
-        "titulo": "Prefeitura de Brusque - SC abre Concurso Público com 30 vagas",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-brusque-sc-retifica-processo-seletivo-com-70-vagas": {
+        "titulo": "Prefeitura de Brusque - SC retifica Processo Seletivo com 70 vagas",
+        "data_texto": "14/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-calmon-sc-publica-edital-de-processo-seletivo": {
         "titulo": "Prefeitura de Calmon - SC publica edital de Processo Seletivo",
@@ -1601,17 +1763,9 @@
         "titulo": "Prefeitura de Canelinha - SC retifica Processo Seletivo com salários de até R$ 8,7 mil",
         "data_texto": "20/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-canoinhas-sc-publica-tres-editais-de-concursos-publicos": {
-        "titulo": "Prefeitura de Canoinhas - SC publica três editais de Concursos Públicos",
-        "data_texto": "18/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-celso-ramos-sc-abre-processo-seletivo-com-diversos-cargos": {
         "titulo": "Prefeitura de Celso Ramos - SC abre Processo Seletivo com diversos cargos",
         "data_texto": "01/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapadao-do-lageado-sc-promove-concurso-publico-com-salarios-de-ate-20-4-mil": {
-        "titulo": "Prefeitura de Chapadão do Lageado - SC promove Concurso Público com salários de até R$ 20,4 mil",
-        "data_texto": "18/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-concordia-sc-publica-retificacoes-de-processo-seletivo": {
         "titulo": "Prefeitura de Concórdia - SC publica retificações de Processo Seletivo",
@@ -1633,13 +1787,17 @@
         "titulo": "Prefeitura de Faxinal dos Guedes - SC abre edital de Processo Seletivo com diversos cargos",
         "data_texto": "29/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-garopaba-sc-divulga-abertura-de-processo-seletivo": {
-        "titulo": "Prefeitura de Garopaba - SC divulga abertura de Processo Seletivo",
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-garopaba-sc-retifica-processo-seletivo-com-72-vagas": {
+        "titulo": "Prefeitura de Garopaba - SC retifica Processo Seletivo com 72 vagas",
         "data_texto": "07/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-garuva-sc-abre-processo-seletivo-para-terapeuta-ocupacional": {
         "titulo": "Prefeitura de Garuva - SC abre Processo Seletivo para Terapeuta Ocupacional",
         "data_texto": "24/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-grao-para-sc-publica-processo-seletivo-para-cargo-de-medico-veterinario": {
+        "titulo": "Prefeitura de Grão-Pará - SC publica Processo Seletivo para cargo de Médico Veterinário",
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaramirim-sc-anuncia-abertura-de-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Guaramirim - SC anuncia abertura de Processo Seletivo para formar cadastro reserva",
@@ -1649,17 +1807,21 @@
         "titulo": "Prefeitura de Guatambú - SC publica retificação de Concurso Público",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-doeste-sc-publica-abertura-de-tres-editais-de-processo-seletivo": {
-        "titulo": "Prefeitura de Herval d'Oeste - SC publica abertura de três editais de Processo Seletivo",
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-doeste-sc-retifica-um-dos-tres-editais-de-processo-seletivo": {
+        "titulo": "Prefeitura de Herval d'Oeste - SC retifica um dos três editais de Processo Seletivo",
         "data_texto": "25/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiam-sc-publica-processo-seletivo-para-formar-cadastro-reserva": {
+        "titulo": "Prefeitura de Ibiam - SC publica Processo Seletivo para formar cadastro reserva",
+        "data_texto": "03/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/edital-de-processo-seletivo-e-divulgado-pela-prefeitura-de-icara-sc": {
+        "titulo": "Edital de Processo Seletivo é divulgado pela Prefeitura de Içara - SC",
+        "data_texto": "14/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbituba-sc-abre-processo-seletivo-para-tecnico-em-saude-bucal": {
         "titulo": "Prefeitura de Imbituba - SC abre Processo Seletivo para Técnico em Saúde Bucal",
         "data_texto": "27/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbituba-sc-abre-inscricoes-para-dois-editais-de-concurso-publico": {
-        "titulo": "Prefeitura de Imbituba - SC abre inscrições para dois editais de Concurso Público",
-        "data_texto": "19/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbuia-sc-promove-concurso-publico-com-15-vagas": {
         "titulo": "Prefeitura de Imbuia - SC promove Concurso Público com 15 vagas",
@@ -1676,10 +1838,6 @@
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-ita-sc-publica-processo-seletivo-com-salarios-de-ate-10-3-mil": {
         "titulo": "Prefeitura de Itá - SC publica Processo Seletivo com salários de até R$ 10,3 mil",
         "data_texto": "01/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapema-sc-lanca-processo-seletivo-com-diversas-vagas-abertas": {
-        "titulo": "Prefeitura de Itapema - SC lança Processo Seletivo com diversas vagas abertas",
-        "data_texto": "17/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapiranga-sc-abre-inscricao-para-dois-processos-seletivos-e-um-concurso-publico": {
         "titulo": "Prefeitura de Itapiranga - SC abre inscrição para dois Processos Seletivos e um Concurso Público",
@@ -1699,7 +1857,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-laguna-sc-abre-processo-seletivo-com-33-vagas": {
         "titulo": "Prefeitura de Laguna - SC abre Processo Seletivo com 33 vagas",
-        "data_texto": "18/11 a08/12/2025"
+        "data_texto": "08/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-lauro-muller-sc-divulga-novo-edital-de-processo-seletivo": {
         "titulo": "Prefeitura de Lauro Müller - SC divulga novo edital de Processo Seletivo",
@@ -1715,15 +1873,15 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-abre-dois-concursos-publicos-com-diversas-vagas": {
         "titulo": "Prefeitura de Major Vieira - SC abre dois Concursos Públicos com diversas vagas",
-        "data_texto": "19/11 a19/12/2025"
+        "data_texto": "19/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-massaranduba-sc-promove-concurso-publico-para-serventes": {
         "titulo": "Prefeitura de Massaranduba - SC promove Concurso Público para Serventes",
         "data_texto": "23/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-da-fumaca-sc-publica-abertura-de-edital-de-processo-seletivo-com-diversos-cargos": {
-        "titulo": "Prefeitura de Morro da Fumaça - SC publica abertura de edital de Processo Seletivo com diversos cargos",
-        "data_texto": "19/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-modelo-sc-abre-nove-vagas-em-novo-processo-seletivo": {
+        "titulo": "Prefeitura de Modelo - SC abre nove vagas em novo Processo Seletivo",
+        "data_texto": "04/12/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-da-fumaca-sc-promove-concurso-publico-com-salarios-de-ate-10-6-mil": {
         "titulo": "Prefeitura de Morro da Fumaça - SC promove Concurso Público com salários de até R$ 10,6 mil",
@@ -1733,17 +1891,25 @@
         "titulo": "Três Concursos Públicos e um Processo Seletivo são abertos para o município de Morro Grande - SC",
         "data_texto": "04/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-erechim-sc-abre-processo-seletivo-com-11-vagas": {
-        "titulo": "Prefeitura de Nova Erechim - SC abre Processo Seletivo com 11 vagas",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-itaberaba-sc-abre-17-vagas-em-novo-processo-seletivo": {
+        "titulo": "Prefeitura de Nova Itaberaba - SC abre 17 vagas em novo Processo Seletivo",
+        "data_texto": "12/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-trento-sc-abre-dois-processos-seletivos-para-diversos-cargos": {
         "titulo": "Prefeitura de Nova Trento - SC abre dois Processos Seletivos para diversos cargos",
         "data_texto": "28/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-horizonte-sc-abre-inscricoes-para-concurso-publico-e-processo-seletivo": {
+        "titulo": "Prefeitura de Novo Horizonte - SC abre inscrições para Concurso Público e Processo Seletivo",
+        "data_texto": "22/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-ouro-sc-abre-processo-seletivo-para-cargo-de-psicologo": {
         "titulo": "Prefeitura de Ouro - SC abre Processo Seletivo para cargo de Psicólogo",
         "data_texto": "24/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-palma-sola-sc-abre-processo-seletivo-com-salarios-de-ate-5-2-mil": {
+        "titulo": "Prefeitura de Palma Sola - SC abre Processo Seletivo com salários de até R$ 5,2 mil",
+        "data_texto": "02/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulo-lopes-sc-publica-retificacao-de-processo-seletivo": {
         "titulo": "Prefeitura de Paulo Lopes - SC publica retificação de Processo Seletivo",
@@ -1759,7 +1925,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-pomerode-sc-abre-oito-vagas-em-novo-concurso-publico": {
         "titulo": "Prefeitura de Pomerode - SC abre oito vagas em novo Concurso Público",
-        "data_texto": "02 a31/12/2025"
+        "data_texto": "31/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-uniao-sc-abre-25-vagas-em-novo-processo-seletivo": {
         "titulo": "Prefeitura de Porto União - SC abre 25 vagas em novo Processo Seletivo",
@@ -1769,8 +1935,8 @@
         "titulo": "Prefeitura de Pouso Redondo - SC abre Processo Seletivo para formação de cadastro de reserva",
         "data_texto": "23/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-quilombo-sc-promove-concurso-publico-com-salarios-de-ate-6-4-mil": {
-        "titulo": "Prefeitura de Quilombo - SC promove Concurso Público com salários de até R$ 6,4 mil",
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-quilombo-sc-publica-edital-retificado-de-concurso-publico": {
+        "titulo": "Prefeitura de Quilombo - SC publica edital retificado de Concurso Público",
         "data_texto": "18/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-oeste-sc-abre-processo-seletivo-com-salarios-de-ate-14-5-mil": {
@@ -1793,13 +1959,13 @@
         "titulo": "Prefeitura de Santa Cecília - SC informa abertura de dois editais de Processo Seletivo",
         "data_texto": "28/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-batista-sc-abre-cinco-concursos-publicos-para-diversos-cargos": {
-        "titulo": "Prefeitura de São João Batista - SC abre cinco Concursos Públicos para diversos cargos",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rosa-de-lima-sc-abre-inscricoes-para-um-novo-processo-seletivo": {
+        "titulo": "Prefeitura de Santa Rosa de Lima - SC abre inscrições para um novo Processo Seletivo",
+        "data_texto": "03/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-batista-sc-lanca-concurso-publico-para-tecnico-administrativo": {
-        "titulo": "Prefeitura de São João Batista - SC lança Concurso Público para Técnico Administrativo",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-amaro-da-imperatriz-sc-retifica-dois-editais-de-processo-seletivo": {
+        "titulo": "Prefeitura de Santo Amaro da Imperatriz - SC retifica dois editais de Processo Seletivo",
+        "data_texto": "07/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-cedro-sc-abre-13-vagas-em-novo-concurso-publico": {
         "titulo": "Prefeitura de São José do Cedro - SC abre 13 vagas em novo Concurso Público",
@@ -1815,15 +1981,11 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-schroeder-sc-lanca-edital-de-processo-seletivo-para-cargos-de-niveis-medio-e-superior": {
         "titulo": "Prefeitura de Schroeder - SC lança edital de Processo Seletivo para cargos de níveis médio e superior",
-        "data_texto": "19/11 a04/12/2025"
+        "data_texto": "04/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-urubici-sc-divulga-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Urubici - SC divulga Processo Seletivo para formar cadastro reserva",
         "data_texto": "06/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-vargem-bonita-sc-divulga-quatro-vagas-em-novo-concurso-publico": {
-        "titulo": "Prefeitura de Vargem Bonita - SC divulga quatro vagas em novo Concurso Público",
-        "data_texto": "18/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-vidal-ramos-sc-retifica-concurso-publico-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Vidal Ramos - SC retifica Concurso Público para formar cadastro reserva",
@@ -1849,19 +2011,53 @@
         "titulo": "UFSC publica Processo Seletivo para Profissional Técnico Especializado em LIBRAS",
         "data_texto": "27/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/codeplan-sc-suspende-concurso-publico": {
-        "titulo": "CODEPLAN - SC suspende Concurso Público",
-        "data_texto": "Suspenso"
+      "https://indepac.selecao.net.br/informacoes/69/": {
+        "titulo": "Processo Seletivo - 02/2025 - CONSÓRCIO INTERMUNICIPAL MULTIFINALITÁRIO DA REGIÃO DA AMFRI - CIM-AMFRI MUNICÍPIO DE ITAJAÍ/SC",
+        "data_texto": "12/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-ses-sc/": {
+        "titulo": "Concurso SES SC",
+        "data_texto": "20/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-ses-sc/": {
+        "titulo": "Concurso SES SC",
+        "data_texto": "20/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-oase-sc-2026/": {
+        "titulo": "Residência OASE SC",
+        "data_texto": "04/01/2026"
+      },
+      "https://blog.grancursosonline.com.br/concurso-joacaba-sc/": {
+        "titulo": "Concurso Joaçaba SC",
+        "data_texto": "24/11/2025"
+      }
+    },
+    "DISTRITO FEDERAL": {
+      "https://www.pciconcursos.com.br/noticias/creci-da-8-regiao-df-abre-concurso-publico-para-diversos-cargos-com-salarios-atrativos": {
+        "titulo": "CRECI da 8º Região - DF abre Concurso Público para diversos cargos com salários atrativos",
+        "data_texto": "22/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/ebserh-abre-processo-seletivo-para-medicos-no-hospital-universitario-de-brasilia": {
+        "titulo": "EBSERH abre Processo Seletivo para Médicos no Hospital Universitário de Brasília",
+        "data_texto": "23/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/igesdf-publica-tres-editais-de-processo-seletivo-para-formar-cadastro-reserva": {
+        "titulo": "IGESDF publica três editais de Processo Seletivo para formar cadastro reserva",
+        "data_texto": "23/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-creci-df/": {
+        "titulo": "Concurso CRECI DF",
+        "data_texto": "22/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-ses-df-2026/": {
+        "titulo": "Residência SES DF",
+        "data_texto": "14/12/2025"
       }
     },
     "GOIÁS": {
       "https://www.pciconcursos.com.br/noticias/alego-retifica-concurso-com-101-vagas-para-niveis-medio-e-superior": {
         "titulo": "ALEGO retifica Concurso com 101 vagas para níveis médio e superior",
         "data_texto": "10/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-aragarcas-go-divulga-abertura-de-concurso-publico-com-diversos-cargos": {
-        "titulo": "Prefeitura de Aragarças - GO divulga abertura de Concurso Público com diversos cargos",
-        "data_texto": "03/12/2025 a06/01/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-veneza-go-abre-224-vagas-em-novo-concurso-publico": {
         "titulo": "Prefeitura de Nova Veneza - GO abre 224 vagas em novo Concurso Público",
@@ -1871,17 +2067,13 @@
         "titulo": "Prefeitura de Planaltina - GO divulga abertura de Concurso Público com salários de até R$ 9,5 mil",
         "data_texto": "04/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-senador-canedo-go-publica-retificacao-de-concurso-publico": {
-        "titulo": "Prefeitura de Senador Canedo - GO publica retificação de Concurso Público",
-        "data_texto": "15/12/2025 a15/01/2026"
-      },
       "https://www.pciconcursos.com.br/noticias/icmbio-abre-processo-seletivo-para-agente-temporario-ambiental-em-alto-paraiso-de-goias": {
         "titulo": "ICMBio abre Processo Seletivo para Agente Temporário Ambiental em Alto Paraíso de Goiás",
         "data_texto": "25/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/mp-go-abre-inscricoes-de-concurso-publico-para-oficial-de-promotoria": {
         "titulo": "MP - GO abre inscrições de Concurso Público para oficial de promotoria",
-        "data_texto": "07/01 a05/02/2026"
+        "data_texto": "05/02/2026"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-aloandia-go-publica-retificacoes-de-concurso-publico": {
         "titulo": "Prefeitura de Aloândia - GO publica retificações de Concurso Público",
@@ -1893,27 +2085,19 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-divinopolis-de-goias-go-divulga-processo-seletivo-com-diversos-cargos": {
         "titulo": "Prefeitura de Divinópolis de Goiás - GO divulga Processo Seletivo com diversos cargos",
-        "data_texto": "18/11 a02/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-gameleira-de-goias-go-abre-131-vagas-em-novo-concurso-publico": {
-        "titulo": "Prefeitura de Gameleira de Goiás - GO abre 131 vagas em novo Concurso Público",
-        "data_texto": "13/12/2025 a13/01/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapirapua-go-publica-edital-de-processo-seletivo": {
-        "titulo": "Prefeitura de Itapirapuã - GO publica edital de Processo Seletivo",
-        "data_texto": "19/11/2025"
+        "data_texto": "02/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-luziania-go-abre-edital-de-processo-seletivo-para-cargo-de-auxiliar-em-educacao-merendeiro": {
         "titulo": "Prefeitura de Luziânia - GO abre edital de Processo Seletivo para cargo de Auxiliar em Educação (Merendeiro)",
-        "data_texto": "18 a20/11/2025"
+        "data_texto": "20/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/edital-de-processo-seletivo-e-divulgado-pela-prefeitura-de-sanclerlandia-go": {
         "titulo": "Edital de Processo Seletivo é divulgado pela Prefeitura de Sanclerlândia - GO",
         "data_texto": "27/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-tereza-de-goias-go-anuncia-a-abertura-de-concurso-publico-com-156-vagas": {
-        "titulo": "Prefeitura de Santa Tereza de Goiás - GO anuncia a abertura de Concurso Público com 156 vagas",
-        "data_texto": "07/12/2025 a07/01/2026"
+      "https://blog.grancursosonline.com.br/concurso-aragarcas-go/": {
+        "titulo": "Concurso Aragarças GO",
+        "data_texto": "06/01/2026"
       }
     },
     "MATO GROSSO DO SUL": {
@@ -1929,45 +2113,41 @@
         "titulo": "Marinha do Brasil abre novo Concurso Público junto ao Com6ºDN",
         "data_texto": "08/01/2026"
       },
-      "https://www.pciconcursos.com.br/noticias/msgas-prorroga-inscricoes-de-concurso-publico-com-salarios-de-ate-10-6-mil": {
-        "titulo": "MSGÁS prorroga inscrições de Concurso Público com salários de até R$ 10,6 mil",
-        "data_texto": "Prorrogado até07/11/2025"
+      "https://www.pciconcursos.com.br/noticias/ebserh-abre-10-vagas-em-novo-processo-seletivo-na-grande-dourados-ms": {
+        "titulo": "EBSERH abre 10 vagas em novo Processo Seletivo na Grande Dourados - MS",
+        "data_texto": "21/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-alcinopolis-ms-abre-35-vagas-em-novo-processo-seletivo": {
-        "titulo": "Prefeitura de Alcinópolis - MS abre 35 vagas em novo Processo Seletivo",
-        "data_texto": "19/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-bataguassu-ms-abre-10-vagas-em-novo-processo-seletivo": {
-        "titulo": "Prefeitura de Bataguassu - MS abre 10 vagas em novo Processo Seletivo",
-        "data_texto": "19/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-alcinopolis-ms-publica-processo-seletivo-com-31-vagas": {
+        "titulo": "Prefeitura de Alcinópolis - MS publica Processo Seletivo com 31 vagas",
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-e-a-camara-de-bataypora-ms-abrem-inscricoes-de-editais-de-concurso-publico": {
         "titulo": "Prefeitura e a Cãmara de Batayporã - MS abrem inscrições de editais de Concurso Público",
         "data_texto": "11/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-caarapo-ms-anuncia-abertura-de-processo-seletivo-com-diversos-cargos": {
-        "titulo": "Prefeitura de Caarapó - MS anuncia abertura de Processo Seletivo com diversos cargos",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-guia-lopes-da-laguna-ms-lanca-edital-de-processo-seletivo-para-cargo-de-engenheiro-civil": {
-        "titulo": "Prefeitura de Guia Lopes da Laguna - MS lança edital de Processo Seletivo para cargo de Engenheiro Civil",
-        "data_texto": "19/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-camapua-ms-abre-inscricoes-para-edital-de-processo-seletivo": {
+        "titulo": "Prefeitura de Camapuã - MS abre inscrições para edital de Processo Seletivo",
+        "data_texto": "27/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-iguatemi-ms-abre-inscricoes-para-edital-de-processo-seletivo": {
         "titulo": "Prefeitura de Iguatemi - MS abre inscrições para edital de Processo Seletivo",
-        "data_texto": "24 a25/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-navirai-ms-abre-novo-edital-de-processo-seletivo": {
-        "titulo": "Prefeitura de Naviraí - MS abre novo edital de Processo Seletivo",
-        "data_texto": "19/11/2025"
+        "data_texto": "25/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-sonora-ms-publica-edital-de-processo-seletivo-com-oito-vagas": {
         "titulo": "Prefeitura de Sonora - MS publica edital de Processo Seletivo com oito vagas",
         "data_texto": "21/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/tjms-abre-42-vagas-em-novo-concurso-publico": {
-        "titulo": "TJMS abre 42 vagas em novo Concurso Público",
-        "data_texto": "01/12/2025 a02/01/2026"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicentina-ms-abre-processo-seletivo-para-cadastro-de-reserva": {
+        "titulo": "Prefeitura de Vicentina - MS abre Processo Seletivo para cadastro de reserva",
+        "data_texto": "27/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-tj-ms/": {
+        "titulo": "Concurso TJ MS",
+        "data_texto": "27/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-tj-ms/": {
+        "titulo": "Concurso TJ MS",
+        "data_texto": "27/11/2025"
       }
     },
     "MATO GROSSO": {
@@ -1975,25 +2155,33 @@
         "titulo": "Concurso Público para Agente de Serviços Gerais é divulgado pela Câmara de Nova Bandeirantes - MT",
         "data_texto": "25/11/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiacas-mt-publica-dois-editais-de-processos-seletivos": {
+        "titulo": "Prefeitura de Apiacás - MT publica dois editais de Processos Seletivos",
+        "data_texto": "05/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-carlinda-mt-divulga-novo-processo-seletivo-para-cargo-de-professor": {
         "titulo": "Prefeitura de Carlinda - MT divulga novo Processo Seletivo para cargo de Professor",
         "data_texto": "02/12/2025"
       },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-colniza-mt-divulga-novo-edital-de-processo-seletivo": {
+        "titulo": "Prefeitura de Colniza - MT divulga novo edital de Processo Seletivo",
+        "data_texto": "11/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-cotriguacu-mt-abre-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Cotriguaçu - MT abre Processo Seletivo para formar cadastro reserva",
-        "data_texto": "18 a27/11/2025"
+        "data_texto": "27/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-itanhanga-mt-publica-edital-de-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Itanhangá - MT publica edital de Processo Seletivo para formar cadastro reserva",
         "data_texto": "01/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-itiquira-mt-divulga-processo-seletivo-com-salarios-de-ate-5-2-mil": {
-        "titulo": "Prefeitura de Itiquira - MT divulga Processo Seletivo com salários de até R$ 5,2 mil",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-juara-mt-abre-processo-seletivo-para-cadastro-de-reserva-em-diversos-cargos-educacionais": {
+        "titulo": "Prefeitura de Juara - MT abre Processo Seletivo para cadastro de reserva em diversos cargos educacionais",
+        "data_texto": "03/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-juruena-mt-lanca-processo-seletivo-para-formar-cadastro-reserva": {
         "titulo": "Prefeitura de Juruena - MT lança Processo Seletivo para formar cadastro reserva",
-        "data_texto": "24 a27/11/2025"
+        "data_texto": "27/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-lucas-do-rio-verde-mt-abre-processo-seletivo-para-cadastro-reserva-de-orientadores": {
         "titulo": "Prefeitura de Lucas do Rio Verde - MT abre Processo Seletivo para Cadastro Reserva de Orientadores",
@@ -2001,19 +2189,11 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-matupa-mt-prorroga-inscricoes-do-processo-seletivo-com-diversos-cargos": {
         "titulo": "Prefeitura de Matupá - MT prorroga inscrições do Processo Seletivo com diversos cargos",
-        "data_texto": "Prorrogado de25/11 a07/12/2025"
+        "data_texto": "07/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-monte-verde-mt-abre-edital-de-processo-seletivo-com-diversos-cargos": {
         "titulo": "Prefeitura de Nova Monte Verde - MT abre edital de Processo Seletivo com diversos cargos",
-        "data_texto": "24/11 a05/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-ubirata-mt-abre-novo-processo-seletivo": {
-        "titulo": "Prefeitura de Nova Ubiratã - MT abre novo Processo Seletivo",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-abre-processo-seletivo-para-formar-cadastro-de-reserva": {
-        "titulo": "Prefeitura de Nova Xavantina - MT abre Processo Seletivo para formar cadastro de reserva",
-        "data_texto": "18/11/2025"
+        "data_texto": "05/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-mundo-mt-divulga-processo-seletivo-com-mais-de-100-vagas": {
         "titulo": "Prefeitura de Novo Mundo - MT divulga Processo Seletivo com mais de 100 vagas",
@@ -2041,10 +2221,18 @@
       },
       "https://www.pciconcursos.com.br/noticias/tj-mt-abre-inscricoes-para-novo-concurso-publico": {
         "titulo": "TJ-MT abre inscrições para novo Concurso Público",
-        "data_texto": "14/01 a13/02/2026"
+        "data_texto": "13/02/2026"
+      },
+      "https://blog.grancursosonline.com.br/concurso-tj-mt-cartorio/": {
+        "titulo": "Concurso TJ MT Cartório",
+        "data_texto": "13/02/2026"
       }
     },
     "AMAZONAS": {
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-manaus-am-divulga-edital-de-concurso-publico-com-diversos-cargos": {
+        "titulo": "Prefeitura de Manaus - AM divulga edital de Concurso Público com diversos cargos",
+        "data_texto": "15/12/2025"
+      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-urucara-am-anuncia-concurso-publico-com-192-vagas": {
         "titulo": "Prefeitura de Urucará - AM anuncia Concurso Público com 192 vagas",
         "data_texto": "02/12/2025"
@@ -2055,33 +2243,47 @@
       },
       "https://www.pciconcursos.com.br/noticias/icmbio-lanca-edital-de-processo-seletivo-para-a-cidade-de-manaus-am": {
         "titulo": "ICMBio lança edital de Processo Seletivo para a cidade de Manaus - AM",
-        "data_texto": "25 a27/11/2025"
+        "data_texto": "27/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-manaus-am-divulga-edital-de-concurso-publico-com-diversos-cargos": {
-        "titulo": "Prefeitura de Manaus - AM divulga edital de Concurso Público com diversos cargos",
+      "https://blog.grancursosonline.com.br/concurso-cgm-manaus-am-edital-publicado-2025/": {
+        "titulo": "Concurso CGM Manaus AM",
+        "data_texto": "15/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-semmas-manaus-am-edital-publicado-2025/": {
+        "titulo": "Concurso SEMMAS Manaus AM",
         "data_texto": "15/12/2025"
       }
     },
+    "AMAPÁ": {
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-macapa-ap-publica-concurso-publico-com-90-vagas": {
+        "titulo": "Prefeitura de Macapá - AP publica Concurso Público com 90 vagas",
+        "data_texto": "22/12/2025"
+      }
+    },
     "PARÁ": {
-      "https://www.pciconcursos.com.br/noticias/adepara-divulga-abertura-das-inscricoes-edital-de-processo-seletivo": {
-        "titulo": "Adepará divulga abertura das inscrições edital de Processo Seletivo",
-        "data_texto": "19/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/fundacao-cultural-do-estado-do-para-lanca-edital-de-processo-seletivo-com-13-vagas": {
         "titulo": "Fundação Cultural do Estado do Pará lança edital de Processo Seletivo com 13 vagas",
-        "data_texto": "19 a24/11/2025"
+        "data_texto": "24/11/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-igarape-miri-pa-abre-edital-de-processo-seletivo-para-cargo-de-profissional-de-apoio-escolar": {
+        "titulo": "Prefeitura de Igarapé-Miri - PA abre edital de Processo Seletivo para cargo de Profissional de Apoio Escolar",
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-medicilandia-pa-lanca-concurso-publico-com-sete-vagas": {
         "titulo": "Prefeitura de Medicilândia - PA lança Concurso Público com sete vagas",
         "data_texto": "28/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-repartimento-pa-abre-processo-seletivo-para-diversas-areas": {
-        "titulo": "Prefeitura de Novo Repartimento - PA abre Processo Seletivo para diversas áreas",
-        "data_texto": "18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-ipixuna-pa-promove-inscricoes-para-novo-processo-seletivo": {
+        "titulo": "Prefeitura de Nova Ipixuna - PA promove inscrições para novo Processo Seletivo",
+        "data_texto": "24/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-viseu-pa-publica-retificacao-de-concurso-publico": {
         "titulo": "Prefeitura de Viseu - PA publica retificação de Concurso Público",
         "data_texto": "10/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-viseu-pa-publica-edital-de-processo-seletivo-com-25-vagas": {
+        "titulo": "Prefeitura de Viseu - PA publica edital de Processo Seletivo com 25 vagas",
+        "data_texto": "12/12/2025"
       }
     },
     "RONDÔNIA": {
@@ -2091,11 +2293,25 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-alta-floresta-doeste-ro-abre-processo-seletivo-para-agente-comunitario-de-saude-e-agente-de-combate-as-endemias": {
         "titulo": "Prefeitura de Alta Floresta D'Oeste - RO abre Processo Seletivo para Agente Comunitário de Saúde e Agente de Combate às Endemias",
-        "data_texto": "18/11 a18/12/2025"
+        "data_texto": "18/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-paraiso-ro-abre-processo-seletivo-para-a-secretaria-municipal-de-educacao": {
+        "titulo": "Prefeitura de Alto Paraíso - RO abre Processo Seletivo para a Secretaria Municipal de Educação",
+        "data_texto": "24/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-cacoal-ro-abre-18-vagas-em-novo-processo-seletivo": {
         "titulo": "Prefeitura de Cacoal - RO abre 18 vagas em novo Processo Seletivo",
         "data_texto": "20/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-ale-ro/": {
+        "titulo": "Concurso ALE RO",
+        "data_texto": "04/12/2025"
+      }
+    },
+    "TOCANTINS": {
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-formoso-do-araguaia-to-divulga-quatro-editais-de-concursos-publicos": {
+        "titulo": "Prefeitura de Formoso do Araguaia - TO divulga quatro editais de Concursos Públicos",
+        "data_texto": "01/12/2025"
       }
     },
     "ALAGOAS": {
@@ -2105,7 +2321,7 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-delmiro-gouveia-al-anuncia-processo-seletivo-com-45-vagas": {
         "titulo": "Prefeitura de Delmiro Gouveia - AL anuncia Processo Seletivo com 45 vagas",
-        "data_texto": "20 a30/11/2025"
+        "data_texto": "30/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-do-norte-al-publica-retificacao-de-concurso-publico": {
         "titulo": "Prefeitura de Santa Luzia do Norte - AL publica retificação de Concurso Público",
@@ -2114,6 +2330,10 @@
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-satuba-al-retifica-concurso-publico-com-365-vagas": {
         "titulo": "Prefeitura de Satuba - AL retifica Concurso Público com 365 vagas",
         "data_texto": "01/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-cref-al/": {
+        "titulo": "Concurso CREF AL",
+        "data_texto": "04/12/2025"
       }
     },
     "BAHIA": {
@@ -2131,29 +2351,33 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-araci-ba-divulga-retificacao-de-processo-seletivo": {
         "titulo": "Prefeitura de Araci - BA divulga retificação de Processo Seletivo",
-        "data_texto": "Conferir por edital18/11 a03/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-eunapolis-ba-retifica-um-dos-editai-de-processo-seletivo": {
-        "titulo": "Prefeitura de Eunápolis - BA retifica um dos editai de Processo Seletivo",
-        "data_texto": "18/11/2025"
+        "data_texto": "11/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaete-ba-informa-abertura-de-processo-seletivo-com-diversas-vagas": {
         "titulo": "Prefeitura de Itaetê - BA informa abertura de Processo Seletivo com diversas vagas",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-jequie-ba-publica-retificacao-de-concurso-publico": {
-        "titulo": "Prefeitura de Jequié - BA publica retificação de Concurso Público",
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-jequie-ba-publica-retificacoes-de-concursos-publicos": {
+        "titulo": "Prefeitura de Jequié - BA publica retificações de Concursos Públicos",
         "data_texto": "04/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-taperoa-ba-promove-concurso-publico-com-370-vagas": {
         "titulo": "Prefeitura de Taperoá - BA promove Concurso Público com 370 vagas",
         "data_texto": "05/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-crq-ba/": {
+        "titulo": "Concurso CRQ BA",
+        "data_texto": "08/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-crq-ba/": {
+        "titulo": "Concurso CRQ BA",
+        "data_texto": "08/12/2025"
       }
     },
     "CEARÁ": {
       "https://www.pciconcursos.com.br/noticias/ufc-abre-dois-concursos-publicos-para-cargo-de-tecnico-administrativo-em-educacao": {
         "titulo": "UFC abre dois Concursos Públicos para cargo de Técnico-Administrativo em Educação",
-        "data_texto": "01 a15/12/2025"
+        "data_texto": "15/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/camara-de-independencia-ce-abre-edital-de-concurso-publico-com-10-vagas": {
         "titulo": "Câmara de Independência - CE abre edital de Concurso Público com 10 vagas",
@@ -2162,10 +2386,6 @@
       "https://www.pciconcursos.com.br/noticias/camara-de-pacatuba-ce-publica-retificacoes-de-concurso-publico": {
         "titulo": "Câmara de Pacatuba - CE publica retificações de Concurso Público",
         "data_texto": "05/01/2026"
-      },
-      "https://www.pciconcursos.com.br/noticias/camara-de-senador-pompeu-ce-promove-concurso-publico-com-16-vagas": {
-        "titulo": "Câmara de Senador Pompeu - CE promove Concurso Público com 16 vagas",
-        "data_texto": "19/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-caridade-ce-abre-concurso-publico-com-mais-de-100-vagas": {
         "titulo": "Prefeitura de Caridade - CE abre Concurso Público com mais de 100 vagas",
@@ -2179,13 +2399,13 @@
         "titulo": "Prefeitura de Icapuí - CE divulga abertura das inscrições para dois Processos Seletivos",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-maranguape-ce-publica-concursos-publicos-com-mais-de-300-vagas": {
-        "titulo": "Prefeitura de Maranguape - CE publica Concursos Públicos com mais de 300 vagas",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-maranguape-ce-prorroga-inscricoes-dos-tres-concursos-publicos-com-mais-de-300-vagas": {
+        "titulo": "Prefeitura de Maranguape - CE prorroga inscrições dos três Concursos Públicos com mais de 300 vagas",
+        "data_texto": "02/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-retifica-edital-de-concurso-publico-para-guardas-municipais": {
         "titulo": "Prefeitura de Poranga - CE retifica edital de Concurso Público para Guardas Municipais",
-        "data_texto": "Reaberto até24/11/2025"
+        "data_texto": "24/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicosa-do-ceara-ce-abre-inscricoes-para-dois-editais-de-concurso-publico": {
         "titulo": "Prefeitura de Viçosa do Ceará - CE abre inscrições para dois editais de Concurso Público",
@@ -2199,29 +2419,33 @@
     "MARANHÃO": {
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-caxias-ma-reabre-inscricoes-de-concurso-publico": {
         "titulo": "Prefeitura de Caxias - MA reabre inscrições de Concurso Público",
-        "data_texto": "Reaberto até24/11/2025"
+        "data_texto": "24/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-caxias-ma-promove-concurso-publico-para-guarda-municipal": {
         "titulo": "Prefeitura de Caxias - MA promove Concurso Público para Guarda Municipal",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-lima-campos-ma-prorroga-inscricoes-de-concurso-publico": {
-        "titulo": "Prefeitura de Lima Campos - MA prorroga inscrições de Concurso Público",
-        "data_texto": "Prorrogado até03/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitoria-do-mearim-ma-retoma-concurso-publico-com-228-vagas": {
         "titulo": "Prefeitura de Vitória do Mearim - MA retoma Concurso Público com 228 vagas",
-        "data_texto": "Reaberto até08/12/2025"
+        "data_texto": "08/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/seap-ma-divulga-periodo-de-inscricoes-para-sete-processos-seletivos": {
         "titulo": "SEAP - MA divulga período de inscrições para sete Processos Seletivos",
         "data_texto": "24/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-vitoria-do-mearim-ma/": {
+        "titulo": "Concurso Vitória do Mearim MA",
+        "data_texto": "08/12/2025"
       }
     },
     "PARAÍBA": {
       "https://www.pciconcursos.com.br/noticias/camara-de-solanea-pb-promove-concurso-publico": {
         "titulo": "Câmara de Solânea - PB promove Concurso Público",
         "data_texto": "14/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/icmbio-divulga-processo-seletivo-para-agente-temporario-ambiental-em-cabedelo-pb": {
+        "titulo": "ICMBio divulga Processo Seletivo para Agente Temporário Ambiental em Cabedelo - PB",
+        "data_texto": "25/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-condado-pb-informa-abertura-de-concurso-publico-com-diversos-cargos": {
         "titulo": "Prefeitura de Condado - PB informa abertura de Concurso Público com diversos cargos",
@@ -2233,17 +2457,21 @@
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-piloezinhos-pb-promove-concurso-publico-com-52-vagas": {
         "titulo": "Prefeitura de Pilõezinhos - PB promove Concurso Público com 52 vagas",
-        "data_texto": "19/11 a21/12/2025"
+        "data_texto": "21/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-riachao-do-bacamarte-pb-retifica-edital-de-concurso-publico-com-56-vagas": {
         "titulo": "Prefeitura de Riachão do Bacamarte - PB retifica edital de Concurso Público com 56 vagas",
         "data_texto": "30/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-malta-pb/": {
+        "titulo": "Concurso Malta PB",
+        "data_texto": "14/12/2025"
       }
     },
     "PERNAMBUCO": {
       "https://www.pciconcursos.com.br/noticias/cpu-pe-anuncia-edital-retificado-do-concurso-publico-com-diversos-cargos": {
         "titulo": "CPU - PE anuncia edital retificado do Concurso Público com diversos cargos",
-        "data_texto": "Reaberto até28/11/2025"
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-petrolina-pe-divulga-concurso-publico-com-mais-de-1-mil-vagas": {
         "titulo": "Prefeitura de Petrolina - PE divulga Concurso Público com mais de 1 mil vagas",
@@ -2254,7 +2482,7 @@
         "data_texto": "21/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/icmbio-publica-processo-seletivo-para-agente-temporario-ambiental-em-fernando-de-noronha-pe": {
-        "titulo": "ICMBio publica Processo Seletivo para Agente Temporário Ambiental em Fernando de Noronha PE",
+        "titulo": "ICMBio publica Processo Seletivo para Agente Temporário Ambiental em Fernando de Noronha - PE",
         "data_texto": "21/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-altinho-pe-abre-processo-seletivo-para-cargo-de-cuidador-escolar": {
@@ -2272,12 +2500,28 @@
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-riacho-das-almas-pe-abre-concurso-publico-com-104-vagas": {
         "titulo": "Prefeitura de Riacho das Almas - PE abre Concurso Público com 104 vagas",
         "data_texto": "11/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-taquaritinga-do-norte-pe-abre-inscricoes-para-dois-processos-seletivo": {
+        "titulo": "Prefeitura de Taquaritinga do Norte - PE abre inscrições para dois Processos Seletivo",
+        "data_texto": "05/12/2025"
+      },
+      "https://www.pciconcursos.com.br/noticias/upe-e-sad-de-pernambuco-abrem-55-vagas-em-novo-processo-seletivo": {
+        "titulo": "UPE e SAD de Pernambuco abrem 55 vagas em novo Processo Seletivo",
+        "data_texto": "21/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-funase-pe/": {
+        "titulo": "Concurso FUNASE PE",
+        "data_texto": "28/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-sme-petrolina-pe/": {
+        "titulo": "Concurso SME Petrolina PE",
+        "data_texto": "26/11/2025"
       }
     },
     "PIAUÍ": {
-      "https://www.pciconcursos.com.br/noticias/pc-pi-publica-retificacao-de-concurso-publico": {
-        "titulo": "PC - PI publica retificação de Concurso Público",
-        "data_texto": "Conferir por edital18/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-barras-pi-divulga-processo-seletivo-para-professores-temporarios": {
+        "titulo": "Prefeitura de Barras - PI divulga Processo Seletivo para Professores Temporários",
+        "data_texto": "28/11/2025"
       },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-capitao-de-campos-pi-abre-edital-de-concurso-publico-para-cargo-de-guarda-civil-municipal": {
         "titulo": "Prefeitura de Capitão de Campos - PI abre edital de Concurso Público para cargo de Guarda Civil Municipal",
@@ -2287,13 +2531,9 @@
         "titulo": "Prefeitura de Elesbão Veloso - PI abre 152 vagas em novo Processo Seletivo",
         "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-floriano-pi-retifica-e-prorroga-inscricoes-para-tres-concursos-publicos": {
-        "titulo": "Prefeitura de Floriano - PI retifica e prorroga inscrições para três Concursos Públicos",
-        "data_texto": "Prorrogado até16/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-piripiri-pi-abre-32-vagas-em-novo-concurso-publico": {
-        "titulo": "Prefeitura de Piripiri - PI abre 32 vagas em novo Concurso Público",
-        "data_texto": "17/11/2025"
+      "https://www.pciconcursos.com.br/noticias/prefeitura-de-jose-de-freitas-pi-abre-74-vagas-em-novo-processo-seletivo": {
+        "titulo": "Prefeitura de José de Freitas - PI abre 74 vagas em novo Processo Seletivo",
+        "data_texto": "08/12/2025"
       },
       "https://www.pciconcursos.com.br/noticias/ufpi-abre-inscricoes-para-edital-de-concurso-publico-com-12-vagas": {
         "titulo": "UFPI abre inscrições para edital de Concurso Público com 12 vagas",
@@ -2301,10 +2541,6 @@
       }
     },
     "RIO GRANDE DO NORTE": {
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-ezequiel-rn-publica-edital-de-processo-seletivo-para-cargo-de-nutricionista": {
-        "titulo": "Prefeitura de Coronel Ezequiel - RN publica edital de Processo Seletivo para cargo de Nutricionista",
-        "data_texto": "18 a19/11/2025"
-      },
       "https://www.pciconcursos.com.br/noticias/prefeitura-de-maxaranguape-rn-abre-concurso-publico-para-cargo-de-guarda-municipal": {
         "titulo": "Prefeitura de Maxaranguape - RN abre Concurso Público para cargo de Guarda Municipal",
         "data_texto": "15/12/2025"
@@ -2316,24 +2552,134 @@
       "https://www.pciconcursos.com.br/noticias/tj-rn-informa-abertura-de-concurso-publico-com-89-vagas": {
         "titulo": "TJ - RN informa abertura de Concurso Público com 89 vagas",
         "data_texto": "09/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-tj-rn-cartorio/": {
+        "titulo": "Concurso TJ RN Cartórios",
+        "data_texto": "09/12/2025"
+      }
+    },
+    "SERGIPE": {
+      "https://www.pciconcursos.com.br/noticias/sead-e-seed-de-sergipe-divulgam-concurso-publico-para-professores-de-educacao-basica": {
+        "titulo": "SEAD e SEED de Sergipe divulgam Concurso Público para Professores de Educação Básica",
+        "data_texto": "08/12/2025"
       }
     },
     "NÃO CLASSIFICADOS": {
       "https://portal.imperioconcursos.com.br/edital/ver/100": {
         "titulo": "Município de Ouro Verde",
-        "data_texto": "17/11/2025"
+        "data_texto": "27/11/2025"
+      },
+      "https://portal.imperioconcursos.com.br/edital/ver/99": {
+        "titulo": "Prefeitura Municipal de Vale de São Domingos",
+        "data_texto": "01/12/2025"
       },
       "https://portal.imperioconcursos.com.br/edital/ver/98": {
         "titulo": "Câmara Municipal de Paraíso",
-        "data_texto": "17/11/2025"
+        "data_texto": "02/12/2025"
+      },
+      "https://portal.imperioconcursos.com.br/edital/ver/97": {
+        "titulo": "Prefeitura Municipal de Buri",
+        "data_texto": "25/11/2025"
+      },
+      "https://portal.imperioconcursos.com.br/edital/ver/96": {
+        "titulo": "Prefeitura Municipal de Buri",
+        "data_texto": "25/11/2025"
+      },
+      "https://portal.imperioconcursos.com.br/edital/ver/95": {
+        "titulo": "Câmara Municipal de Taquarivaí",
+        "data_texto": "20/11/2025"
       },
       "https://portal.cmmconcursos.com.br/edital/ver/317": {
         "titulo": "Prefeitura Municipal de Guaraçaí",
-        "data_texto": "17/11/2025"
+        "data_texto": "27/11/2025"
+      },
+      "https://portal.cmmconcursos.com.br/edital/ver/316": {
+        "titulo": "Prefeitura Municipal de Narandiba",
+        "data_texto": "30/11/2025"
+      },
+      "https://portal.cmmconcursos.com.br/edital/ver/315": {
+        "titulo": "Prefeitura Municipal de Narandiba",
+        "data_texto": "30/11/2025"
+      },
+      "https://portal.cmmconcursos.com.br/edital/ver/314": {
+        "titulo": "Prefeitura Municipal de Narandiba",
+        "data_texto": "30/11/2025"
+      },
+      "https://portal.cmmconcursos.com.br/edital/ver/313": {
+        "titulo": "Prefeitura Municipal de Gabriel Monteiro",
+        "data_texto": "30/11/2025"
+      },
+      "https://portal.cmmconcursos.com.br/edital/ver/312": {
+        "titulo": "Prefeitura Municipal de Pindorama",
+        "data_texto": "20/11/2025"
+      },
+      "https://portal.cmmconcursos.com.br/edital/ver/311": {
+        "titulo": "Prefeitura Municipal de Euclides da Cunha Paulista",
+        "data_texto": "23/11/2025"
+      },
+      "https://portal.fenix.selecao.site/edital/ver/117": {
+        "titulo": "PREFEITURA MUNICIPAL DE CÂNDIDO RODRIGUES",
+        "data_texto": "24/11/2025"
+      },
+      "https://portal.fenix.selecao.site/edital/ver/116": {
+        "titulo": "PREFEITURA MUNICIPAL DE FERNANDO PRESTES",
+        "data_texto": "02/12/2025"
+      },
+      "https://portal.fenix.selecao.site/edital/ver/115": {
+        "titulo": "PREFEITURA MUNICIPAL DE ÓLEO",
+        "data_texto": "21/11/2025"
+      },
+      "https://portal.glconsultoria.com.br/edital/ver/263": {
+        "titulo": "MUNICÍPIO DE NOVO HORIZONTE",
+        "data_texto": "01/12/2025"
+      },
+      "https://portal.glconsultoria.com.br/edital/ver/262": {
+        "titulo": "MUNICÍPIO DE SANTA CLARA D`OESTE",
+        "data_texto": "01/12/2025"
+      },
+      "https://portal.institutoibepp.com.br/edital/ver/30": {
+        "titulo": "PREFEITURA MUNICIPAL DE BORÁ",
+        "data_texto": "30/11/2025"
+      },
+      "https://portal.institutoibepp.com.br/edital/ver/29": {
+        "titulo": "PREFEITURA MUNICIPAL DE BORÁ",
+        "data_texto": "30/11/2025"
+      },
+      "https://portal.recrutamentobrasil.com.br/edital/ver/211": {
+        "titulo": "PREFEITURA MUNICIPAL DE SÃO PEDRO DO TURVO",
+        "data_texto": "05/12/2025"
+      },
+      "https://portal.recrutamentobrasil.com.br/edital/ver/210": {
+        "titulo": "PREFEITURA MUNICIPAL DE CHAVANTES",
+        "data_texto": "05/12/2025"
+      },
+      "https://portal.recrutamentobrasil.com.br/edital/ver/209": {
+        "titulo": "PREFEITURA MUNICIPAL DE SÃO PEDRO DO TURVO",
+        "data_texto": "05/12/2025"
+      },
+      "https://portal.recrutamentobrasil.com.br/edital/ver/205": {
+        "titulo": "PREFEITURA MUNICIPAL DE SÃO LUIZ DO PARAITINGA",
+        "data_texto": "30/11/2025"
+      },
+      "https://portal.recrutamentobrasil.com.br/edital/ver/203": {
+        "titulo": "PREFEITURA MUNICIPAL DE LIMEIRA",
+        "data_texto": "05/12/2025"
+      },
+      "https://portal.recrutamentobrasil.com.br/edital/ver/202": {
+        "titulo": "PREFEITURA MUNICIPAL DE VÁRZEA PAULISTA",
+        "data_texto": "23/11/2025"
       },
       "https://www.ibamsp-concursos.org.br/informacoes/89/": {
         "titulo": "VESTIBULAR - FACULDADE DE CIÊNCIAS MÉDICAS DA SANTA CASA DE SÃO PAULO - 1º SEMESTRE 2026",
         "data_texto": "26/11/2025"
+      },
+      "https://www.ibamsp-concursos.org.br/informacoes/97/": {
+        "titulo": "BERTIOGA - CONCURSO PÚBLICO - 01/2025 - EDITAL 01",
+        "data_texto": "18/12/2025"
+      },
+      "https://www.ibamsp-concursos.org.br/informacoes/98/": {
+        "titulo": "BERTIOGA - CONCURSO PÚBLICO - 01/2025 - EDITAL 02",
+        "data_texto": "18/12/2025"
       },
       "https://www.ibamsp-concursos.org.br/informacoes/96/": {
         "titulo": "PRAIA GRANDE - PROCESSO SELETIVO - 005/2025 -  COREMU",
@@ -2364,7 +2710,7 @@
         "data_texto": "25/11/2025"
       },
       "https://abcp.selecao.net.br/informacoes/2814/": {
-        "titulo": "Concurso PÃºblico - 001/2025 - PREFEITURA MUNICIPAL DE MIRACATU",
+        "titulo": "Concurso Público - 001/2025 - PREFEITURA MUNICIPAL DE MIRACATU",
         "data_texto": "24/11/2025"
       },
       "https://www.avancasp.org.br/informacoes/224/": {
@@ -2373,6 +2719,10 @@
       },
       "https://www.avancasp.org.br/informacoes/225/": {
         "titulo": "Processo Seletivo - 01/2025 - PREFEITURA MUNICIPAL DE TAUBATÉ",
+        "data_texto": "15/12/2025"
+      },
+      "https://www.avancasp.org.br/informacoes/226/": {
+        "titulo": "Processo Seletivo - 01/2025 - PREFEITURA MUNICIPAL DE VOTORANTIM",
         "data_texto": "15/12/2025"
       },
       "https://www.avancasp.org.br/informacoes/223/": {
@@ -2387,137 +2737,433 @@
         "titulo": "Residência Médica - Edital nº 01/2025 - INSTITUTO DE ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL - IAMSPE",
         "data_texto": "24/11/2025"
       },
-      "https://www.avancasp.org.br/informacoes/220/": {
-        "titulo": "Concurso Público - 01/2025 - PREFEITURA MUNICIPAL DE POTIM",
-        "data_texto": "17/11/2025"
+      "https://www.concursosfau.com.brhttps://www.concursosfau.com.br/novo/concurso/pmm2": {
+        "titulo": "PREFEITURA MUNICIPAL DE MARMELEIRO",
+        "data_texto": "01/02/2026"
       },
-      "https://www.avancasp.org.br/informacoes/201/": {
-        "titulo": "Concurso Público - 01/2025 - SECRETARIA DE ESTADO DA SAÚDE DE SÃO PAULO - GRUPO DE RESGATE - GRAU",
-        "data_texto": "17/11/2025"
+      "https://www.concursosfau.com.brhttps://www.concursosfau.com.br/novo/concurso/pmv": {
+        "titulo": "PREFEITURA MUNICIPAL DE VERÊ",
+        "data_texto": "08/02/2026"
       },
-      "https://www.avancasp.org.br/informacoes/221/": {
-        "titulo": "Processo de Seleção - 09/2025 - PREFEITURA MUNICIPAL DE POTIM",
-        "data_texto": "17/11/2025"
-      },
-      "http://www.publiconsult.com.br/Concurso/Detail/642": {
+      "https://www.publiconsult.com.br/Concurso/Detail/642": {
         "titulo": "Fundação Educacional Guaçuana - Processo Seletivo - Nº 4/2025",
         "data_texto": "01/12/2025"
       },
-      "http://www.publiconsult.com.br/Concurso/Detail/643": {
+      "https://www.publiconsult.com.br/Concurso/Detail/643": {
         "titulo": "Prefeitura Municipal de Sarapuí - Processo Seletivo - Nº 02/2025",
         "data_texto": "01/12/2025"
       },
-      "http://www.publiconsult.com.br/Concurso/Detail/640": {
+      "https://www.publiconsult.com.br/Concurso/Detail/640": {
         "titulo": "Prefeitura Municipal de Cesário Lange - Concurso Público - Nº 001/2025",
         "data_texto": "21/11/2025"
       },
-      "http://www.publiconsult.com.br/Concurso/Detail/641": {
+      "https://www.publiconsult.com.br/Concurso/Detail/641": {
         "titulo": "Prefeitura Municipal de Itararé - Processo Seletivo - Nº 2/2025",
         "data_texto": "21/11/2025"
       },
-      "http://www.publiconsult.com.br/Concurso/Detail/636": {
-        "titulo": "Prefeitura Municipal de Capela do Alto - Processo Seletivo Simplificado - Nº 01/2025",
-        "data_texto": "19/11/2025"
-      }
-    },
-    "CONSULTA MANUAL": {
-      "https://www.concursosfcc.com.br/concursoInscricaoAberta.html": {
-        "titulo": "Fundação Carlos Chagas",
-        "data_texto": ""
+      "https://www.estrategiaconcursos.com.br/blog/concurso-pc-mg-administrativo/": {
+        "titulo": "Concurso PCMG Administrativo",
+        "data_texto": "06/02/2026"
       },
-      "https://www.vunesp.com.br/busca/concurso/inscricoes%20abertas": {
-        "titulo": "Fundação VUNESP",
-        "data_texto": ""
+      "https://www.estrategiaconcursos.com.br/blog/concurso-iases-es/": {
+        "titulo": "Concurso IASES",
+        "data_texto": "20/11/2025"
       },
-      "https://inscricoes.unesp.br/concurso/inscricao-aberta": {
-        "titulo": "Unesp - Universidade Estadual Paulista Júlio de Mesquita Filho",
-        "data_texto": ""
+      "https://www.estrategiaconcursos.com.br/blog/concurso-guarda-de-macapa-ap/": {
+        "titulo": "Concurso GCM Macapá",
+        "data_texto": "22/12/2025"
       },
-      "https://www.fuvest.br/concursos/": {
-        "titulo": "FUVEST - Universidade de São Paulo (USP)",
-        "data_texto": ""
-      }
-    },
-    "TOCANTINS": {
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-formoso-do-araguaia-to-divulga-quatro-editais-de-concursos-publicos": {
-        "titulo": "Prefeitura de Formoso do Araguaia - TO divulga quatro editais de Concursos Públicos",
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-maranguape-ce/": {
+        "titulo": "Concurso GCM Maranguape",
+        "data_texto": "02/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-franco-da-rocha-sp/": {
+        "titulo": "Concurso GCM Franco da Rocha",
+        "data_texto": "11/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-santa-luzia-do-norte/": {
+        "titulo": "Concurso GCM Santa Luzia do Norte",
+        "data_texto": "02/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-craibas-al/": {
+        "titulo": "Concurso GCM Craíbas",
+        "data_texto": "30/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-aragarcas-go/": {
+        "titulo": "Concurso GCM Aragarças",
+        "data_texto": "06/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-guarda-de-curitiba/": {
+        "titulo": "Concurso GCM Curitiba",
+        "data_texto": "24/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-guarda-de-taperoa-ba/": {
+        "titulo": "Concurso GCM Taperoá",
+        "data_texto": "07/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-satuba-al/": {
+        "titulo": "Concurso GCM Satuba",
         "data_texto": "01/12/2025"
-      }
-    },
-    "DISTRITO FEDERAL": {
-      "https://www.pciconcursos.com.br/noticias/igesdf-publica-tres-editais-de-processo-seletivo-para-formar-cadastro-reserva": {
-        "titulo": "IGESDF publica três editais de Processo Seletivo para formar cadastro reserva",
-        "data_texto": "23/11/2025"
-      }
-    },
-    "SERGIPE": {
-      "https://www.pciconcursos.com.br/noticias/sead-e-seed-de-sergipe-divulgam-concurso-publico-para-professores-de-educacao-basica": {
-        "titulo": "SEAD e SEED de Sergipe divulgam Concurso Público para Professores de Educação Básica",
-        "data_texto": "24/11 a08/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-de-sergipe-se-retifica-concurso-para-guarda-municipal": {
-        "titulo": "Prefeitura de Monte Alegre de Sergipe - SE retifica Concurso para Guarda Municipal",
-        "data_texto": "Prorrogado até04/11/2025"
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-salto-de-pirapora-sp/": {
+        "titulo": "Concurso GCM Salto de Pirapora",
+        "data_texto": "10/12/2025"
       },
-      "undefined": {
-        "titulo": "Título desconhecido",
-        "data_texto": "17/11/2025"
-      }
-    }
-  },
-  "acompanhar": {
-    "NACIONAL": {
-      "https://www.pciconcursos.com.br/noticias/marinha-abre-selecao-para-oficiais-temporarios-em-diversas-areas-no-3-distrito-naval": {
-        "titulo": "Marinha abre seleção para Oficiais Temporários em diversas áreas no 3º Distrito Naval",
-        "data_texto": "08/01/2026"
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-caxias-ma/": {
+        "titulo": "Concurso GCM Caxias",
+        "data_texto": "24/11/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/cref-da-19-regiao-informa-abertura-das-inscricoes-de-concurso-publico": {
-        "titulo": "Cref da 19ª Região informa abertura das inscrições de Concurso Público",
-        "data_texto": "04/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/crt-da-3-regiao-publica-retificacao-de-processo-seletivo-para-fiscais-e-assistentes-tecnicos-operacionais": {
-        "titulo": "CRT da 3ª Região publica retificação de Processo Seletivo para Fiscais e Assistentes Técnicos Operacionais",
-        "data_texto": "14/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/tribunal-de-contas-da-uniao-publica-retificacao-de-concurso-publico-para-auditor-federal-de-controle-externo": {
-        "titulo": "Tribunal de Contas da União publica retificação de Concurso Público para Auditor Federal de Controle Externo",
-        "data_texto": "03/12/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/amazul-publica-retificacao-de-concurso-publico": {
-        "titulo": "Amazul publica retificação de Concurso Público",
-        "data_texto": "17/11/2025"
-      },
-      "https://www.pciconcursos.com.br/noticias/caixa-economica-federal-abre-184-vagas-em-novo-concurso-publico-nacional": {
-        "titulo": "Caixa Econômica Federal abre 184 vagas em novo Concurso Público nacional",
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-vitoria-do-mearim-ma/": {
+        "titulo": "Concurso GCM Vitória do Mearim",
         "data_texto": "08/12/2025"
       },
-      "https://www.pciconcursos.com.br/noticias/comando-do-2-distrito-naval-da-marinha-do-brasil-abre-inscricoes-para-dois-editais-de-processo-seletivo": {
-        "titulo": "Comando do 2º Distrito Naval da Marinha do Brasil abre inscrições para dois editais de Processo Seletivo",
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-paulista-pe/": {
+        "titulo": "Concurso GCM Paulista",
+        "data_texto": "02/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-gcm-rodeiro-mg/": {
+        "titulo": "Concurso GCM Rodeiro",
+        "data_texto": "20/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-guarda-de-alfenas-mg/": {
+        "titulo": "Concurso GCM Alfenas",
+        "data_texto": "20/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-tcu/": {
+        "titulo": "Concurso TCU",
+        "data_texto": "03/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-cgm-manaus/": {
+        "titulo": "Concurso CGM Manaus",
+        "data_texto": "15/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-iss-planaltina/": {
+        "titulo": "Concurso ISS Planaltina",
+        "data_texto": "04/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-iss-tres-passos/": {
+        "titulo": "Concurso ISS Três Passos",
+        "data_texto": "17/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-caixa/": {
+        "titulo": "Concurso CAIXA",
+        "data_texto": "08/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-ale-ro/": {
+        "titulo": "Concurso ALERO",
+        "data_texto": "04/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-assembleia-legislativa-go/": {
+        "titulo": "Concurso ALEGO",
+        "data_texto": "10/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-alerj/": {
+        "titulo": "Concurso ALERJ",
+        "data_texto": "02/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-assembleia-legislativa-es/": {
+        "titulo": "Concurso ALES",
+        "data_texto": "21/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-brasilandia-de-minas-mg/": {
+        "titulo": "Concurso Câmara de Brasilândia de Minas",
+        "data_texto": "09/02/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-curvelo-mg/": {
+        "titulo": "Concurso Câmara de Curvelo",
+        "data_texto": "19/02/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-tuiuti-sp/": {
+        "titulo": "Concurso Câmara de Tuiuti",
+        "data_texto": "19/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-londrina-pr/": {
+        "titulo": "Concurso Câmara de Londrina",
+        "data_texto": "11/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-muriae-mg/": {
+        "titulo": "Concurso Câmara de Muriaé",
+        "data_texto": "02/03/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-igaratinga-mg/": {
+        "titulo": "Concurso Câmara de Igaratinga",
+        "data_texto": "29/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-volta-redonda-rj/": {
+        "titulo": "Concurso Câmara de Volta Redonda",
+        "data_texto": "30/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-independencia-ce/": {
+        "titulo": "Concurso Câmara de Independência",
+        "data_texto": "07/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-divinolandia-sp/": {
+        "titulo": "Concurso Câmara de Divinolândia",
+        "data_texto": "08/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-sao-cristovao-do-sul-sc/": {
+        "titulo": "Concurso Câmara de São Cristóvão do Sul",
+        "data_texto": "04/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-cassilandia-ms/": {
+        "titulo": "Concurso Câmara de Cassilândia",
+        "data_texto": "15/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-pacatuba-ce/": {
+        "titulo": "Concurso Câmara de Pacatuba",
+        "data_texto": "05/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-cerro-largo-rs/": {
+        "titulo": "Concurso Câmara de Cerro Largo",
+        "data_texto": "03/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-solanea-pb/": {
+        "titulo": "Concurso Câmara de Solânea",
+        "data_texto": "14/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-matao-sp/": {
+        "titulo": "Concurso Câmara de Matão",
+        "data_texto": "05/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-jequie-ba/": {
+        "titulo": "Concurso Câmara de Jequié",
+        "data_texto": "04/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-craibas-al/": {
+        "titulo": "Concurso Câmara de Craíbas",
+        "data_texto": "30/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-miguelopolis-sp/": {
+        "titulo": "Concurso Câmara de Miguelópolis",
+        "data_texto": "27/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-seara-sc/": {
+        "titulo": "Concurso Câmara de Seara",
+        "data_texto": "25/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-santa-rita-passa-quatro-sp/": {
+        "titulo": "Concurso Câmara de Santa Rita do Passa Quatro",
+        "data_texto": "05/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-morro-da-garca-mg/": {
+        "titulo": "Concurso Câmara de Morro da Garça",
+        "data_texto": "09/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-mirassol-sp/": {
+        "titulo": "Concurso Câmara de Mirassol",
+        "data_texto": "08/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-itau-de-minas-mg/": {
+        "titulo": "Concurso Câmara de Itaú de Minas",
+        "data_texto": "12/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-santa-barbara-do-tugurio-mg/": {
+        "titulo": "Concurso Câmara de Santa Bárbara do Tugúrio",
+        "data_texto": "27/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-sao-jose-do-divino-mg/": {
+        "titulo": "Concurso Câmara de São José do Divino",
+        "data_texto": "29/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-camara-de-arceburgo-mg/": {
+        "titulo": "Concurso Câmara de Arceburgo",
+        "data_texto": "05/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-crn-5/": {
+        "titulo": "Concurso CRN 5",
+        "data_texto": "03/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-caruaru-saude-pe/": {
+        "titulo": "Concurso Caruaru Saúde",
+        "data_texto": "05/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-inova-capixaba-es/": {
+        "titulo": "Concurso iNOVA Capixaba",
+        "data_texto": "28/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-franco-da-rocha-saude-sp/": {
+        "titulo": "Concurso Franco da Rocha Saúde",
+        "data_texto": "11/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-fipase-ribeiro-preto-sp/": {
+        "titulo": "Concurso FIPASE Ribeirão Preto",
+        "data_texto": "22/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-senador-canedo-saude-go/": {
+        "titulo": "Concurso Senador Canedo Saúde",
+        "data_texto": "15/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-cascavel-saude-pr/": {
+        "titulo": "Concurso Cascavel Saúde",
+        "data_texto": "25/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-cis-comcam-pr/": {
+        "titulo": "Concurso CIS-COMCAM",
+        "data_texto": "04/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-pm-mg/": {
+        "titulo": "Concurso PMMG Saúde",
+        "data_texto": "07/01/2026"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-ibge/": {
+        "titulo": "Processo seletivo IBGE",
+        "data_texto": "11/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-comesp/": {
+        "titulo": "Concurso COMESP",
+        "data_texto": "17/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-semmas-manaus-am/": {
+        "titulo": "Concurso SEMMAS",
+        "data_texto": "15/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-seprev-indaiatuba/": {
+        "titulo": "Concurso SEPREV Indaiatuba",
+        "data_texto": "11/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-artesp/": {
+        "titulo": "Concurso ARTESP",
+        "data_texto": "01/12/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-unificado-pe/": {
+        "titulo": "Concurso Unificado Pernambuco",
+        "data_texto": "28/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-sae-ituiutaba/": {
+        "titulo": "Concurso SAE Ituiutaba",
         "data_texto": "08/01/2026"
       },
-      "https://www.pciconcursos.com.br/noticias/comando-do-7-distrito-naval-da-marinha-do-brasil-abre-inscricoes-para-dois-editais-de-processo-seletivo": {
-        "titulo": "Comando do 7º Distrito Naval da Marinha do Brasil abre inscrições para dois editais de Processo Seletivo",
+      "https://www.estrategiaconcursos.com.br/blog/concurso-caj-sc/": {
+        "titulo": "Concurso CAJ Joinville",
+        "data_texto": "24/11/2025"
+      },
+      "https://www.estrategiaconcursos.com.br/blog/concurso-saae-aimores/": {
+        "titulo": "Concurso SAAE Aimorés",
+        "data_texto": "04/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-pcmg-administrativo/": {
+        "titulo": "ConcursoPCMG Administrativo",
+        "data_texto": "06/02/2026"
+      },
+      "https://blog.grancursosonline.com.br/concurso-pm-mg-saude/": {
+        "titulo": "Concurso PMMG Saúde",
+        "data_texto": "07/01/2026"
+      },
+      "https://blog.grancursosonline.com.br/concurso-oficial-pm-mg/": {
+        "titulo": "Concurso Oficial PMMG",
+        "data_texto": "18/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-ufc-edital-publicado-2025/": {
+        "titulo": "Concurso UFC",
+        "data_texto": "15/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-ufpi-edital-publicado-2025/": {
+        "titulo": "Concurso UFPI",
+        "data_texto": "11/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-ifes-edital-publicado-2025/": {
+        "titulo": "Concurso IFES",
+        "data_texto": "15/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-ifsp/": {
+        "titulo": "P",
+        "data_texto": "24/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-unirio/": {
+        "titulo": "Concurso UniRio",
+        "data_texto": "10/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-tcu/": {
+        "titulo": "Concurso TCU Auditor",
+        "data_texto": "03/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/edital-marinha-smv-oficiais-2026/": {
+        "titulo": "ConcursoMarinha SMV Oficiais",
         "data_texto": "08/01/2026"
       },
-      "https://www.pciconcursos.com.br/noticias/comando-do-8-distrito-naval-da-marinha-do-brasil-abre-inscricoes-para-edital-de-processo-seletivo": {
-        "titulo": "Comando do 8º Distrito Naval da Marinha do Brasil abre inscrições para edital de Processo Seletivo",
-        "data_texto": "08/01/2026"
+      "https://blog.grancursosonline.com.br/concurso-alego/": {
+        "titulo": "Concurso ALEGO",
+        "data_texto": "10/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-alerj/": {
+        "titulo": "Concurso Alerj",
+        "data_texto": "02/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-uespi-2026/": {
+        "titulo": "Residência UESPI",
+        "data_texto": "27/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-fmj-2026/": {
+        "titulo": "Residência FMJ",
+        "data_texto": "30/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-ucpel-2026/": {
+        "titulo": "Residência UCPEL",
+        "data_texto": "24/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-instituto-dor-2026/": {
+        "titulo": "Residência Instituto Dor",
+        "data_texto": "08/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-unisa-2026/": {
+        "titulo": "Residência UNISA",
+        "data_texto": "17/01/2026"
+      },
+      "https://blog.grancursosonline.com.br/residencia-hospital-de-amor-2026/": {
+        "titulo": "Residência Hospital de Amor de Barretos",
+        "data_texto": "30/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-famerp-2026/": {
+        "titulo": "Residência FAMERP",
+        "data_texto": "23/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-unisisp-2026/": {
+        "titulo": "ResidênciaUNISISP",
+        "data_texto": "28/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-fct-unesp-2026/": {
+        "titulo": "Residência FCT UNESP",
+        "data_texto": "28/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/residencia-fai-2026/": {
+        "titulo": "Residência FAI",
+        "data_texto": "04/01/2026"
+      },
+      "https://blog.grancursosonline.com.br/concurso-caixa-edital-publicado-2025/": {
+        "titulo": "Concurso Caixa",
+        "data_texto": "08/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-ibge-temporarios-edital-publicado-2025/": {
+        "titulo": "Concurso IBGE Temporários",
+        "data_texto": "11/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-unipampa/": {
+        "titulo": "Concurso Unipampa",
+        "data_texto": "01/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-crt-3-edital-publicado-2025/": {
+        "titulo": "Concurso CRT 3",
+        "data_texto": "14/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-unipampa-edital-publicado-2025/": {
+        "titulo": "ConcursoUNIPAMPA",
+        "data_texto": "01/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-crn-5-edital-publicado-2025/": {
+        "titulo": "Concurso CRN 5",
+        "data_texto": "03/12/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-unificado-pernambuco/": {
+        "titulo": "Concurso Unificado Pernambuco",
+        "data_texto": "28/11/2025"
+      },
+      "https://blog.grancursosonline.com.br/concurso-artesp/": {
+        "titulo": "Concurso ARTESP",
+        "data_texto": "01/12/2025"
       }
     }
   },
-  "dispensados": {
-    "SÃO PAULO": {
-      "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-rio-preto-sp-informa-abertura-de-processo-seletivo-e-concurso-publico": {
-        "titulo": "Prefeitura de São José do Rio Preto - SP informa abertura de Processo Seletivo e Concurso Público",
-        "data_texto": "17/11/2025"
-      }
-    },
-    "REGIÃO SUDESTE": {
-      "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-29-vagas-em-novo-processo-seletivo": {
-        "titulo": "Marinha do Brasil abre 29 vagas em novo Processo Seletivo",
-        "data_texto": "08/01/2026"
-      }
-    }
-  },
-  "ultima_atualizacao": "17/11/2025 23:33:39"
+  "acompanhar": {},
+  "dispensados": {},
+  "ultima_atualizacao": "20/11/2025 15:37:20"
 }

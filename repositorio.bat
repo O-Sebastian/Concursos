@@ -52,5 +52,8 @@ echo E o branch ativo:
 git branch
 echo Status atual:
 :: git push -u origin dev
+:: git checkout main -> Vai para a linha do tempo "MAIN"
+:: git log --graph --oneline --all -> Visualiza o log
+:: git merge XXX -> Mescla o commit XXX
 git status
 pause
